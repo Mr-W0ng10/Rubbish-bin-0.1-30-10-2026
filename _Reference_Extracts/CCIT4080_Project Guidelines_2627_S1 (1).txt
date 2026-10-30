@@ -1,0 +1,3821 @@
+
+===== PAGE 1/62 =====
+ 
+1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Associate of Engineering  
+CCIT4080 Project on Knowledge Products Development 
+ 
+Project Guidelines – 2026/27 (Semester 1) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+– Course Coordinator and Instructor: 
+– Mr Lau C.Y. Tim (tim.cyt.lau@hkuspace.hku.hk) 
+ 
+– Instructors:  
+– Mr Chan M.W. (mw.chan@hkuspace.hku.hk) 
+– Mr Chan N. K. (nk.chan@hkuspace.hku.hk) 
+– Mr Chan Y. Kenneth (kenneth.yk.chan@hkuspace.hku.hk) 
+– Dr Chon C.H. Chris (chris.chon@hkuspace.hku.hk) 
+– Mr Wan W.K. Sunny (sunny.wan@hkuspace.hku.hk)  
+ 
+– Laboratory Assistant:  
+– 
+Mr Ngan H. K. (Kit) (hk.ngan@hkuspace.hku.hk)
+
+===== PAGE 2/62 =====
+CCIT4080 PKPD – Project Guidelines – (1) Introduction 
+ 
+2
+(1) Introduction 
+ 
+Project-Based Learning in Engineering Education 
+Project-based learning holds an important place in engineering education because it provides students 
+with opportunities to integrate theoretical knowledge with practical application while addressing 
+realistic and often open-ended problems. It enables students to develop not only technical knowledge 
+and problem-solving skills, but also important professional capabilities such as teamwork, 
+communication, project management, decision-making, and independent learning. 
+ 
+Unlike lecture-based courses, where much of the required knowledge and techniques may be 
+introduced first through lectures, tutorials, or laboratory exercises before being assessed, project-
+based learning requires students to take a more active role in determining what they need to learn and 
+how to apply that knowledge. 
+ 
+Students should therefore expect to encounter problems, technologies, methods, tools, or technical 
+knowledge that have not been directly taught in previous courses. Identifying knowledge gaps, 
+locating relevant information, learning unfamiliar concepts or skills, evaluating potential approaches, 
+and applying newly acquired knowledge to the project are important parts of the learning process. 
+ 
+The project supervisor provides guidance, feedback, and academic supervision. However, students 
+are expected to progressively develop greater independence in investigating problems, making 
+appropriate engineering decisions, overcoming technical difficulties, and evaluating the effectiveness 
+of their chosen approaches. 
+ 
+Project-based learning also emphasises the development process rather than solely the final product. 
+Students are expected to demonstrate a logical progression from identifying and understanding a 
+problem through investigation, design, and development to testing, evaluation, refinement, and 
+professional communication of the resulting work. 
+ 
+CCIT4080 as the Final Year Project 
+CCIT4080 Project on Knowledge Products Development is regarded as the Final Year Project of 
+the Associate of Engineering (AENG) programme. 
+ 
+The assessments in this course are therefore intended to demonstrate the comprehensive knowledge 
+and skills accumulated in previous courses, as well as new knowledge and skills acquired 
+independently during the project. 
+ 
+Students should expect the academic and technical standards of this course to be comparatively high. 
+
+===== PAGE 3/62 =====
+CCIT4080 PKPD – Project Guidelines – (1) Introduction 
+ 
+3
+The project should demonstrate not merely completion of assigned tasks, but also the ability to 
+integrate knowledge, investigate unfamiliar problems, make appropriate engineering decisions, 
+develop and evaluate solutions, and communicate the resulting work professionally. 
+ 
+The course is intended to prepare students for further education and professional careers, where 
+autonomy, the ability to address complex challenges, independent learning, engineering judgement, 
+and the ability to meet high standards are essential. 
+ 
+Students are expected to approach their project diligently, apply their accumulated knowledge 
+appropriately, acquire additional knowledge and skills where necessary, and demonstrate the ability 
+to address real-world engineering problems. 
+ 
+As CCIT4080 forms part of the graduation requirements of the AENG programme, failing this 
+course generally means the student has not fulfilled the graduation requirements. 
+ 
+Course Aims and Objectives 
+The course aims to provide students with an opportunity to integrate and apply knowledge and skills 
+acquired throughout the AENG programme while developing greater independence in engineering 
+problem-solving and project work.  
+ 
+In particular, the course aims to: 
+– Enhance Understanding: Deepen students' comprehension of the intricate relationships 
+between engineering solutions and real-world problems. 
+– Integrate Theory and Practice: Enable students to apply theoretical frameworks and empirical 
+methods in engineering problem-solving. 
+– Develop Problem-Solving and Engineering Judgement: Develop students' ability to define 
+problems, investigate possible solutions, compare alternatives, make appropriate technical 
+decisions, and justify the approaches adopted. 
+– Promote Initiative and Autonomy: Provide an environment in which students take increasing 
+responsibility for project planning, technical investigation, learning, decision-making, and 
+execution under the guidance of a project supervisor. 
+– Develop Project and Teamwork Skills: Strengthen students' abilities in project planning, time 
+and resource management, teamwork, coordination, responsibility allocation, and professional 
+communication. 
+– Develop Evaluation and Reflective Skills: Enable students to test and evaluate project 
+outcomes, identify limitations, consider possible improvements, and critically reflect on both the 
+project process and their own development. 
+ 
+
+===== PAGE 4/62 =====
+CCIT4080 PKPD – Project Guidelines – (1) Introduction 
+ 
+4
+By the end of the course, students should be able to define an appropriate project scope, establish 
+meaningful objectives and requirements, develop and implement suitable approaches, produce and 
+evaluate a technically sound prototype or solution, and communicate the project process and 
+outcomes professionally. 
+ 
+Independent Project Work 
+Students should not limit their project work to the designated project sessions. The scheduled sessions 
+provide opportunities for group collaboration, project development, supervisor consultation, progress 
+review, and use of relevant facilities; they do not represent the total amount of time expected for 
+completion of the project. 
+ 
+Students are expected to undertake substantial project work independently outside the scheduled 
+sessions. Depending on the nature of the project, this may include background research, technical 
+study, system design, programming, hardware construction, experimentation, testing, data collection, 
+troubleshooting, documentation, group meetings, and preparation of assessment materials. 
+ 
+The supervisor's role is primarily advisory and supervisory rather than instructional. Students should 
+not expect the supervisor to provide step-by-step solutions to technical problems or to teach all 
+knowledge required for the project. Where unfamiliar problems or technologies are encountered, 
+students are expected to investigate appropriate sources, acquire the necessary knowledge or skills, 
+explore possible solutions, and seek supervisory advice where appropriate. 
+ 
+Students should therefore manage their time throughout the two-semester project period and maintain 
+continual progress. A substantial project cannot reasonably be completed only during the scheduled 
+project sessions or through concentrated work immediately before assessment deadlines. 
+ 
+
+===== PAGE 5/62 =====
+CCIT4080 PKPD – Project Guidelines – (2) Project Description 
+ 
+5
+(2) Project Description 
+ 
+CCIT4080 Project on Knowledge Products Development is a two-semester project course forming 
+an integral part of the final year of the Associate of Engineering (AENG) programme. It serves as a 
+culmination of students' academic and practical learning by requiring them to integrate knowledge 
+and skills acquired throughout the programme and apply them to a substantial engineering project. 
+ 
+Nature and Scope of the Project 
+The project should address a clearly identified real-world problem, engineering need, or 
+technically meaningful challenge. Depending on the project scope and objectives, the proposed 
+solution may involve hardware, software, or an integrated hardware-and-software system. 
+ 
+Research-oriented projects that investigate or develop knowledge within an engineering-related area 
+may also be considered. However, the project must involve substantive technical work appropriate to 
+the course. A literature review alone is not sufficient. Students are normally expected to develop, 
+implement, demonstrate, test, and evaluate a prototype, system, technical solution, experimental setup, 
+or other project output appropriate to the approved project scope. 
+ 
+The scope of the project should be sufficiently substantial to demonstrate the knowledge, skills, 
+problem-solving ability, and independence expected of a Final Year Project, while remaining 
+realistically achievable within the two-semester project period and the resources reasonably available 
+to the group. 
+ 
+The project scope and objectives may be refined during the course as students gain a better 
+understanding of the problem, technical constraints, available resources, and results obtained. Any 
+significant changes should be discussed with the project supervisor and appropriately documented. 
+ 
+Project Initiation and Topic Development 
+Following group formation, students are expected to collaboratively propose a project topic and 
+conduct preliminary investigation before finalising the project direction. 
+ 
+The initial project proposal should establish, as far as reasonably possible at that stage: 
+– the problem or need to be addressed; 
+– the background and significance of the problem; 
+– the intended project goals and objectives; 
+– the proposed solution or general technical direction; 
+– preliminary feasibility considerations; 
+– expected project outputs; 
+
+===== PAGE 6/62 =====
+CCIT4080 PKPD – Project Guidelines – (2) Project Description 
+ 
+6
+– major resources required; 
+– responsibilities among group members; and 
+– an initial project schedule. 
+ 
+Project ideas should be supported by an appropriate preliminary investigation rather than based solely 
+on assumptions. Students should consider relevant existing systems, products, technologies, theories, 
+methods, technical literature, and other sources appropriate to the nature of the project. 
+ 
+The proposed topic and scope will be discussed with the project supervisor. Students may be required 
+to refine the problem definition, objectives, technical approach, project scale, or expected output to 
+ensure that the proposed work is feasible and appropriate for the course. 
+ 
+Project Development Process 
+Although individual projects may follow different development processes, CCIT4080 projects should 
+normally demonstrate logical progression from problem investigation to development and 
+evaluation. Students should be able to show how major engineering decisions and project activities 
+relate to the original problem and project objectives. 
+ 
+The following components are generally expected. 
+– Problem Investigation and Background Study 
+Students should first develop a sufficiently detailed understanding of the problem being 
+addressed, including its context, causes, users or stakeholders where applicable, existing 
+constraints, and the reasons why a solution or an improvement is needed. 
+ 
+Relevant statements and assumptions should, where appropriate, be supported by credible 
+evidence such as academic literature, technical documentation, industry information, market 
+information, standards, experimental observations, or other appropriate sources. 
+ 
+– Review of Existing Knowledge and Solutions 
+Students should investigate relevant theories, technologies, methods, designs, systems, products, 
+services, or other existing solutions related to the project. 
+The purpose of the review is not merely to describe what already exists. Students should analyse 
+and compare relevant approaches, identify their strengths and limitations, and use the findings 
+to inform the requirements and technical decisions of their own project. 
+ 
+Depending on the nature of the project, this review may include academic literature, existing 
+commercial products or services, engineering designs, algorithms, hardware components, 
+software frameworks, technical standards, or other relevant material. 
+
+===== PAGE 7/62 =====
+CCIT4080 PKPD – Project Guidelines – (2) Project Description 
+ 
+7
+– Requirements and Success Criteria 
+Based on the problem investigation and review, students should establish appropriate 
+requirements for the proposed solution. These may include: 
+⚫ 
+Functional requirements, describing what the system or solution is expected to do; and 
+⚫ 
+Non-functional requirements, describing relevant performance, reliability, usability, safety, 
+cost, resource, compatibility, or other constraints. 
+ 
+Requirements should be sufficiently clear and, where reasonably possible, measurable and 
+testable. Students should also establish appropriate success criteria, test conditions, performance 
+metrics, or other means to determine whether the project objectives and requirements have been 
+achieved. 
+ 
+– Design 
+The Design describes what solution is proposed and how it is intended to work. 
+ 
+Students should develop an appropriate overall system or solution architecture and explain how 
+its major components, subsystems, modules, or processes interact. Appropriate engineering 
+diagrams and technical representations should be used where applicable, such as system 
+architecture diagrams, circuit diagrams, flowcharts, state diagrams, mechanical drawings, 
+interface diagrams, data-flow diagrams, or software structures. 
+ 
+Major design decisions should be technically justified. Where reasonable alternatives exist, 
+students should demonstrate that appropriate options have been considered and explain why the 
+selected approach is suitable for the project's objectives, requirements, constraints, and available 
+resources. 
+ 
+– Methodology 
+The Methodology describes how the project will be developed, investigated, verified, and 
+evaluated. 
+ 
+Students should explain the approaches and methods adopted to carry out the project and, where 
+appropriate, compare alternative approaches before justifying the selected method. 
+ 
+Depending on the project, the methodology may include development strategies, experimental 
+procedures, data-collection methods, calibration methods, algorithm-development approaches, 
+prototyping procedures, verification methods, testing strategies, and evaluation criteria. 
+ 
+
+===== PAGE 8/62 =====
+CCIT4080 PKPD – Project Guidelines – (2) Project Description 
+ 
+8
+The methodology should therefore provide a clear link between the project objectives and the 
+methods used to determine whether those objectives have been achieved. 
+ 
+– Implementation and Prototype Development 
+The Implementation describes what has been developed, constructed, programmed, 
+configured, integrated, or tested. 
+ 
+Students are expected to translate the proposed design into a working prototype, system, solution, 
+or other approved project output. The implementation should demonstrate meaningful technical 
+work and appropriate application of engineering knowledge and skills. 
+ 
+Students should document important stages of development, including significant technical 
+decisions, modifications, difficulties encountered, troubleshooting performed, and solutions 
+adopted. 
+ 
+Where appropriate, evidence of implementation may include photographs, screenshots, source-
+code records, circuit measurements, experimental records, fabrication outputs, version histories, 
+demonstration records, or other relevant project artefacts. 
+ 
+– Testing, Evaluation, and Refinement 
+Testing and evaluation are essential parts of the project rather than activities to be performed 
+only after development has finished. 
+ 
+Students should develop suitable test cases, experiments, measurement procedures, or other 
+evaluation methods based on the project's objectives, requirements, and success criteria. Testing 
+should, where applicable: 
+⚫ 
+identify what is being tested; 
+⚫ 
+describe the test conditions and procedures; 
+⚫ 
+define the expected or acceptance criteria; 
+⚫ 
+record the results obtained; and 
+⚫ 
+compare the actual results with the intended objectives or requirements. 
+ 
+Students should analyse unexpected results, limitations, failures, and discrepancies rather than 
+simply reporting successful outcomes. 
+ 
+Findings from testing and evaluation should be used to refine the design or implementation 
+where appropriate. The final project should therefore demonstrate not only that a solution was 
+produced, but also that its performance and limitations were critically evaluated. 
+
+===== PAGE 9/62 =====
+CCIT4080 PKPD – Project Guidelines – (2) Project Description 
+ 
+9
+– Project Management and Continuous Development 
+Effective project management is an important part of CCIT4080. Students are expected to 
+organise tasks, allocate responsibilities, manage resources, monitor risks, and maintain 
+appropriate progress throughout the two-semester project period. 
+ 
+The project schedule should be treated as a working project-management tool rather than merely 
+an assessment requirement. Students should regularly compare planned progress with actual 
+progress, identify delays or changes, explain significant differences, and revise the schedule or 
+allocation of resources where appropriate. 
+ 
+Similarly, responsibilities among group members should be sufficiently clear to allow both the 
+group and the supervisor to identify individual contributions and monitor whether project work 
+is progressing effectively. 
+ 
+Assessment of the project therefore considers the development process and continual progress, 
+rather than only the quality of the final deliverable. Extended periods of inactivity, insufficient 
+evidence of development, or substantial work being postponed until immediately before 
+assessment deadlines may negatively affect the relevant assessments even if a final prototype is 
+eventually produced. 
+ 
+Students should maintain appropriate records throughout the project to support project 
+management, communication, assessment, and subsequent reporting. 
+
+===== PAGE 10/62 =====
+CCIT4080 PKPD – Project Guidelines – (3) Project Group Formation 
+ 
+10
+(3) Project Group Formation 
+ 
+Group Size and Project Expectations 
+The standard project group size is 3 to 5 members. This group size serves as the normal benchmark 
+for the project scope, workload, assessment requirements, and expected level of contribution. 
+ 
+Where a group has only one to two members after the group-formation process, it will normally be 
+expected to meet the same academic and technical standards and assessment requirements as 
+groups of the standard size. A smaller group does not automatically receive a reduction in project 
+scope, workload, assessment requirements, or marking expectations. 
+ 
+Groups of more than five members are generally not encouraged and require approval from the 
+instructor and Course Coordinator. Where such a group is approved, the project scope, technical depth, 
+amount of development and testing, and division of responsibilities should reasonably reflect the 
+additional manpower available to the group. 
+ 
+Each member, regardless of group size, is expected to make a fair, meaningful, and identifiable 
+contribution to the project. 
+ 
+Group-Size Mark Adjustment 
+To account for the potential additional manpower available to groups exceeding the standard group 
+size, a group-size mark adjustment will normally be applied. 
+ 
+For each additional member beyond five, 5 percentage points will be deducted from each 
+member's final course mark, based on a 100-mark course score. 
+ 
+For example: 
+– 5 members: no adjustment 
+– 6 members: −5 percentage points 
+– 7 members: −10 percentage points 
+ 
+The adjustment applies to the overall course mark, rather than to any individual assessment 
+component. For example, a final course mark of 78/100 would become 73/100 after a 5-percentage-
+point adjustment. 
+ 
+ 
+ 
+ 
+
+===== PAGE 11/62 =====
+CCIT4080 PKPD – Project Guidelines – (3) Project Group Formation 
+ 
+11 
+Group Formation Process 
+Students are expected to form their own project groups during the first two lessons. 
+ 
+Within one week after the end of Lesson 2, students are required to submit their draft group formation 
+to the instructor. 
+ 
+Students who have not yet formed or joined a group by the deadline remain responsible for making 
+the necessary arrangements themselves. The instructor and Course Coordinator will not assign 
+students to groups, combine groups, or determine group membership on students' behalf. 
+ 
+The finalised group list will normally be announced before Lesson 3. Once the group has been formed, 
+students are expected to sit and work together during the designated meeting sessions.  
+ 
+Once confirmed, students should not independently add, remove, or exchange group members. Any 
+subsequent change in group membership must be discussed with and approved by the instructor 
+and/or Course Coordinator. 
+ 
+Role Allocation and Division of Labour 
+– Group Representative 
+Each group must select a Group Representative who will serve as the primary contact 
+between the group and the project supervisor. 
+ 
+The Group Representative is primarily responsible for facilitating communication between the 
+group and the supervisor, including conveying relevant information and communicating with the 
+supervisor on the group's behalf. 
+ 
+The role of Group Representative does not necessarily imply the role of a group leader, nor 
+does it give the representative greater authority over other group members. Groups may organise 
+their internal leadership, coordination, and task management in a manner appropriate to their 
+project, and these responsibilities may be undertaken by the Group Representative or by other 
+member(s). 
+ 
+All group members remain responsible for their own participation, assigned work, awareness of 
+course requirements and deadlines, and contribution to the overall project. 
+ 
+– Division of Labour 
+Group members should establish clear roles and responsibilities according to the nature of the 
+project, the work required, and the abilities and strengths of individual members. 
+
+===== PAGE 12/62 =====
+CCIT4080 PKPD – Project Guidelines – (3) Project Group Formation 
+ 
+12
+The allocation of work should be appropriately documented and updated where necessary 
+through project records such as the project schedule, Logbook, meeting records, progress reports, 
+or other relevant documentation. 
+ 
+A balanced contribution does not necessarily mean an equal division of workload. Different 
+members may undertake varying types and amounts of work depending on their roles, technical 
+strengths, responsibilities, and the project's needs. However, each member is expected to make 
+a fair and meaningful contribution that can be identified and demonstrated. 
+ 
+Although responsibilities may be divided among members, students should maintain a 
+reasonable understanding of the overall project and how their own work contributes to the 
+complete system or solution. The allocation of a particular task to one member does not remove 
+the collective responsibility of the group to monitor project progress and ensure that required 
+deliverables are completed. 
+ 
+Individual contribution will be considered through the relevant individual assessment 
+components, project-session observations, Peer Evaluation(s), Self-Reflection Report, project 
+records, and other appropriate evidence as specified in the assessment arrangements. 
+ 
+Supervisor Involvement 
+The project supervisor will provide consultative guidance and monitor the overall progress of the 
+project. 
+ 
+The supervisor may provide feedback on matters such as project scope, feasibility, technical direction, 
+project management, implementation, testing, and evaluation. However, consistent with the project-
+based nature of CCIT4080, the supervisor's role is primarily advisory rather than instructional. 
+ 
+Students are expected to investigate technical problems, acquire necessary knowledge and skills, 
+consider alternative approaches, and make appropriate engineering decisions with increasing 
+independence. 
+
+===== PAGE 13/62 =====
+CCIT4080 PKPD – Project Guidelines – (4) Bi-Weekly Project Sessions 
+ 
+13
+(4) Bi-Weekly Project Sessions 
+ 
+The bi-weekly project sessions provide regular contact time for project development, group 
+collaboration, supervisor consultation, and progress review. Students are expected to make 
+productive use of the entire scheduled session according to the current needs and stage of their project. 
+ 
+As stated in Section (1), the scheduled project sessions represent only part of the time required for 
+the project. Students are expected to undertake substantial project work independently outside these 
+sessions and use the scheduled sessions to continue development, coordinate with group members, 
+review progress, and obtain supervisory feedback. 
+ 
+Attendance 
+Attendance at the bi-weekly project sessions is mandatory. 
+ 
+Students are responsible for recording their attendance using the method(s) provided by the instructor 
+and the College's attendance system. Attendance records will be used to monitor participation 
+throughout the course. 
+ 
+Students are expected to attend the entire scheduled project session. Prolonged lateness, early 
+departure, or absence may result in a deduction from the final course mark. In particular, 
+attendance below 70% throughout the course, without a valid reason and appropriate 
+supporting documentation, will result in a significant mark deduction. 
+ 
+The consultation period allocated to each group represents only part of the scheduled project session. 
+Students who attend only their group's consultation period—for example, by arriving shortly before 
+the consultation and leaving immediately afterwards—will normally be considered absent from that 
+project session. 
+ 
+Participation and Collaboration 
+Students are expected to participate actively throughout the project sessions. Attendance alone does 
+not necessarily demonstrate meaningful participation. 
+ 
+Depending on the nature and current stage of the project, appropriate activities may include: 
+– discussing and reviewing project progress with group members; 
+– coordinating tasks and responsibilities; 
+– conducting research or technical investigation; 
+– developing or refining system designs; 
+– programming, constructing, integrating, or troubleshooting project components; 
+
+===== PAGE 14/62 =====
+CCIT4080 PKPD – Project Guidelines – (4) Bi-Weekly Project Sessions 
+ 
+14
+– conducting experiments or testing; 
+– analysing data or test results; 
+– preparing or reviewing technical documentation; 
+– updating project schedules, project records, or the Logbook; 
+– preparing materials or questions for supervisor consultation; and 
+– discussing problems, possible solutions, and subsequent project activities. 
+ 
+The project sessions also provide an important opportunity for group members to meet in person, 
+exchange updates, resolve coordination issues, and work collaboratively on problems that may be 
+more difficult to address independently. 
+ 
+As the scheduled sessions are shared among multiple project groups, students should expect periods 
+during which the supervisor is consulting other groups. Students are expected to continue project-
+related activities during these periods and make appropriate use of the available session time. 
+ 
+Starting from Lesson 3, after group formation has been finalised, groups are expected to attend each 
+session with relevant project materials and evidence of progress appropriate to their current stage of 
+development. These may include written ideas, research findings, diagrams, calculations, schedules, 
+source code, hardware, prototypes, test results, data, photographs, videos, screenshots, draft reports, 
+or other relevant materials. 
+ 
+Supervisor Consultation 
+The project sessions provide regular opportunities for groups to consult their project supervisor. 
+ 
+Supervisor consultation may include: 
+– reporting and reviewing current project progress; 
+– discussing project scope, requirements, or technical direction; 
+– reviewing designs, prototypes, implementation, or testing; 
+– discussing problems or difficulties encountered; 
+– considering alternative approaches or possible improvements; 
+– reviewing project schedules and upcoming activities; and 
+– receiving feedback and guidance on subsequent project work. 
+ 
+Groups should prepare appropriately for consultation so that the available time can be used effectively. 
+Students should, wherever possible, present specific work, evidence, questions, difficulties, or 
+decisions for discussion rather than providing only general statements about progress. 
+ 
+
+===== PAGE 15/62 =====
+CCIT4080 PKPD – Project Guidelines – (4) Bi-Weekly Project Sessions 
+ 
+15
+The supervisor will provide advice, feedback, and guidance where appropriate. However, consistent 
+with the project-based nature of CCIT4080, students remain responsible for investigating problems, 
+considering possible solutions, carrying out the necessary project work, and making appropriate 
+decisions. 
+ 
+Progress Reporting and Individual Contribution 
+Groups may be required to provide formal or informal progress updates during the project sessions. 
+These updates are part of the project's continuous monitoring and allow the supervisor to review 
+whether the project is progressing appropriately. 
+ 
+Each student is expected not only to attend and participate in the sessions but also to be able to explain 
+their own responsibilities, work completed, current progress, and contribution to the overall 
+project. 
+ 
+As some forms of project work may be completed outside the scheduled sessions or may not be 
+readily demonstrated during consultation, students are encouraged to maintain appropriate supporting 
+evidence. Depending on the nature of the work, this may include: 
+– photographs or videos; 
+– screenshots or screen recordings; 
+– source-code or version-control records; 
+– design diagrams or calculations; 
+– experimental records or test data; 
+– prototype-development records; 
+– meeting records or task records; and 
+– other relevant project artefacts. 
+ 
+Such evidence may be used to support students' explanations of their progress and contribution. 
+ 
+Observations made during the project sessions, together with relevant project records, submitted 
+assessments, Peer Evaluation(s), the Individual Self-Reflection Report, and other appropriate 
+evidence, may be considered when assessing individual contribution and relevant project assessment 
+components. 
+ 
+A student who repeatedly demonstrates little or no meaningful progress or contribution may receive 
+a lower individual mark in the relevant assessment components, even where the group as a whole 
+produces satisfactory or better project outcomes. 
+
+===== PAGE 16/62 =====
+CCIT4080 PKPD – Project Guidelines – (5) Schedule and Assessment 
+ 
+16
+(5) Schedule and Assessment 
+ 
+Duration and Course Schedule 
+CCIT4080 Project on Knowledge Products Development spans two semesters, comprising 12 
+scheduled project sessions (6 sessions per semester), and carries 3 credits. 
+ 
+The project is developed continuously across both semesters. The scheduled project sessions, 
+assessment milestones, and submission deadlines are intended to support the progressive 
+development of the project from initial problem investigation and proposal, through design and 
+implementation, to testing, evaluation, and final presentation of the completed work. 
+ 
+Students are responsible for monitoring the course schedule, SOUL announcements, and any 
+subsequent updates issued by the Course Coordinator or project supervisor. 
+ 
+Assessment Overview 
+The overall course assessment comprises the following components: 
+ 
+ 
+Detailed requirements and marking criteria for individual assessment components are provided in 
+Section (6) Assessment Details and the corresponding marking rubrics. 
+ 
+Where applicable, course-level mark adjustments specified elsewhere in these Guidelines will be 
+applied to the overall course mark. These may include, for example, the group-size adjustment 
+described in Section (3) and attendance-related adjustments described in Section (4). 
+ 
+ 
+ 
+Assessment Component 
+Weighting 
+Project Proposal Presentation 
+5% 
+Interim Report – 1st Submission 
+5% 
+Interim Report – 2nd Submission 
+5% 
+Individual Self-Reflection Report 
+5% 
+Peer Evaluation(s) – 5 evaluations × 1% 
+5% 
+Project Final Report 
+20% 
+Project Deliverable 
+35% 
+Project Oral Presentation 
+15% 
+Logbook – Semester 1 
+2.5% 
+Logbook – Semester 2 
+2.5% 
+Total 
+100% 
+
+===== PAGE 17/62 =====
+CCIT4080 PKPD – Project Guidelines – (5) Schedule and Assessment 
+ 
+17
+General Assessment Principles 
+CCIT4080 assesses both the project development process and the resulting project outcomes. 
+Assessment is therefore not based solely on whether a final prototype or product has been completed. 
+ 
+Depending on the assessment component, consideration may be given to: 
+– understanding and investigation of the problem; 
+– review and appropriate use of relevant existing knowledge, technologies, systems, products, or 
+solutions; 
+– definition of meaningful and testable project objectives and requirements; 
+– appropriateness and justification of engineering and technical decisions; 
+– quality and depth of system or solution design; 
+– implementation and technical development; 
+– project progress throughout the two-semester period; 
+– testing, evaluation, analysis, and refinement of the project; 
+– quality and functionality of the final prototype, solution, or other approved project output; 
+– project planning, scheduling, and resource management; 
+– quality and professionalism of technical documentation and presentation; 
+– teamwork, participation, and communication; and 
+– identifiable individual contribution. 
+ 
+Students are expected to support significant claims concerning project progress, implementation, 
+performance, testing, or achievement with appropriate evidence. Depending on the nature of the 
+project, such evidence may include technical diagrams, calculations, source-code records, 
+photographs, videos, screenshots, prototype records, test procedures, experimental data, test results, 
+version histories, project records, or other appropriate artefacts. 
+ 
+The quality of the evidence and analysis is important. Merely stating that a feature has been completed, 
+a system is effective, a project is "on schedule", or an objective has been achieved does not by itself 
+demonstrate the claim. 
+ 
+Where an assessment requires review of project progress, students should distinguish clearly among: 
+– completed work; 
+– work currently in progress; and 
+– planned or remaining work. 
+ 
+Similarly, where scheduling or resource allocation is assessed, students should review planned 
+versus actual progress or usage, explain significant differences, and revise subsequent plans where 
+appropriate. 
+
+===== PAGE 18/62 =====
+CCIT4080 PKPD – Project Guidelines – (5) Schedule and Assessment 
+ 
+18
+Academic Calendar and Project Session Schedule 
+Week # 
+Monday 
+Tuesday 
+Wednesday 
+Thursday 
+Friday 
+Saturday 
+1 
+ 
+ 
+16/09 
+17/09 
+18/09 
+19/09 
+2 
+21/09 
+22/09 
+23/09 
+24/09 
+No Class 
+No Class 
+3 
+28/09 
+29/09 
+30/09 
+No Class 
+02/10 
+03/10 
+4 
+05/10 
+06/10 
+07/10 
+No Class 
+09/10 
+10/10 
+5 
+12/10 
+13/10 
+14/10 
+15/10 
+16/10 
+17/10 
+6 
+No Class 
+20/10 
+21/10 
+22/10 
+23/10 
+24/10 
+7 
+26/10 
+27/10 
+28/10 
+29/10 
+30/10 
+31/10 
+8 
+02/11 
+03/11 
+04/11 
+05/11 
+06/11 
+07/11 
+9 
+09/11 
+10/11 
+11/11 
+12/11 
+13/11 
+14/11 
+10 
+16/11 
+17/11 
+18/11 
+19/11 
+20/11 
+21/11 
+11 
+23/11 
+24/11 
+25/11 
+26/11 
+27/11 
+28/11 
+12 
+30/11 
+01/12 
+02/12 
+03/12 
+04/12 
+05/12 
+13 
+07/12 
+08/12 
+09/12 
+10/12 
+11/12 
+12/12 
+14 
+14/12 
+ 
+ 
+ 
+ 
+ 
+07 Oct: Teaching Thursday Schedule 
+Academic Calendar – 2026/27 Semester 1 
+ 
+Wed. 
+Thu. 
+Fri. 
+Sat. 
+08:30 – 11:30 
+16:00 – 19:00 
+10:00 – 13:00 
+10:00 – 13:00 
+13:00 – 16:00 
+16:00 – 19:00 
+08:30 – 11:30 
+CL13 
+CL11 
+CL12 
+CL01 
+CL02 
+CL07 
+CL08 
+CL05 
+CL06 
+CL09 
+CL10 
+CL03 
+CL04 
+Bi-Weekly Project Session Schedule – 2026/27 Semester 1 
+ 
+Day 
+Time 
+Monday 
+Tuesday 
+Wednesday 
+Thursday 
+Friday 
+Saturday 
+08:30 - 
+CCIT4081-CL01 
+CCIT4081-CL04 
+CCIT4080-CL13 
+ 
+ 
+CCIT4080-CL03 
+CCIT4080-CL04 
+10:00 - 
+CCIT4080-CL01 
+CCIT4080-CL02 
+CCIT4080-CL07 
+CCIT4080-CL08 
+11:30 - 
+ 
+ 
+ 
+ 
+13:00 - 
+CCIT4081-CL02 
+CCIT4081-CL05 
+ 
+ 
+CCIT4080-CL05 
+CCIT4080-CL06 
+ 
+14:30 - 
+ 
+CCIT4030-CL03 
+ 
+16:00 - 
+ 
+ 
+CCIT4080-CL11 
+CCIT4080-CL12 
+CCIT4080-CL09 
+CCIT4080-CL10 
+ 
+17:30 - 
+CCIT4081-CL03 
+ 
+ 
+ 
+Note: The greyed-out time slots indicate the likelihood that KEC701 will be idle/occupied. The actual availability will be confirmed by the 
+AENG Teaching Team. Once confirmed, some empty time slots may be made available to Year 2 students for project-related purposes. 
+KEC701 Engineering Teaching Laboratory Overall Schedule – 2026/27 Semester 1 
+
+===== PAGE 19/62 =====
+CCIT4080 PKPD – Project Guidelines – (5) Schedule and Assessment 
+ 
+19
+Week # 
+Monday 
+Tuesday 
+Wednesday 
+Thursday 
+Friday 
+1 
+ 
+ 
+ 
+ 
+22/01 
+2 
+25/01 
+26/01 
+27/01 
+28/01 
+29/01 
+3 
+01/02 
+02/02 
+03/02 
+04/02 
+No Class 
+4 
+No Class 
+No Class 
+No Class 
+11/02 
+12/02 
+5 
+15/02 
+16/02 
+17/02 
+18/02 
+19/02 
+6 
+22/02 
+23/02 
+24/02 
+25/02 
+26/02 
+7 
+01/03 
+02/03 
+03/03 
+04/03 
+05/03 
+8 
+08/03 
+09/03 
+10/03 
+11/03 
+12/03 
+9 
+15/03 
+No Class 
+17/03 
+18/03 
+19/03 
+10 
+22/03 
+23/03 
+24/03 
+25/03 
+No Class 
+11 
+No Class 
+30/03 
+31/03 
+01/04 
+02/04 
+12 
+No Class 
+06/04 
+07/04 
+08/04 
+09/04 
+13 
+12/04 
+13/04 
+14/04 
+15/04 
+16/04 
+14 
+19/04 
+20/04 
+21/04 
+22/04 
+23/04 
+15 
+26/04 
+27/04 
+ 
+ 
+ 
+08 April: Teaching Monday Schedule 
+Academic Calendar – 2026/27 Semester 2 (TBC*) 
+ 
+Monday 
+Tuesday 
+Wednesday 
+Thursday 
+Friday 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bi-Weekly Project Session Schedule – 2026/27 Semester 2 (TBC*) 
+ 
+Day 
+Time 
+Monday 
+Tuesday 
+Wednesday 
+Thursday 
+Friday 
+08:30 - 
+ 
+ 
+ 
+ 
+ 
+10:00 - 
+ 
+ 
+ 
+ 
+ 
+11:30 - 
+ 
+ 
+ 
+ 
+ 
+13:00 - 
+ 
+ 
+ 
+ 
+ 
+14:30 - 
+ 
+ 
+ 
+ 
+ 
+16:00 - 
+ 
+ 
+ 
+ 
+ 
+17:30 - 
+ 
+ 
+ 
+ 
+ 
+ 
+KEC701 Engineering Teaching Laboratory Overall Schedule – 2026/27 Semester 2 (TBC*) 
+ 
+
+===== PAGE 20/62 =====
+CCIT4080 PKPD – Project Guidelines – (5) Schedule and Assessment 
+ 
+20
+Semester 1 
+Lesson 
+Activity/Milestone 
+Weighting 
+1 & 2 
+ 
+Course Introduction 
+– 
+Overview of course objectives, expectations, and assessment criteria. 
+ 
+Group Formation 
+– 
+Students are expected to form groups comprising 3 to 5 members. 
+ 
+Topic Selection 
+– 
+Groups should begin brainstorming and selecting a project topic for approval. 
+ 
+Lesson 2 Milestone - Group Formation 
+– 
+By the end of Lesson 2, students are required to submit their draft group formation to the 
+instructor. 
+ 
+Pre-Lesson 3 Milestone - Group Confirmation 
+– 
+One week following Lesson 2, the instructor will post the finalized group list on SOUL. 
+Starting from Lesson 3, students are required to sit and work together as a group. 
+ 
+ 
+3 
+Preliminary Research 
+– 
+Students must engage in a preliminary study to understand the scope of their chosen problem 
+and explore potential solutions. 
+ 
+ 
+ 
+4 
+Project Proposal Presentation 
+– 
+Students are required to present their Project Proposals during this lesson. The presentation 
+should clearly outline the problem being addressed, the proposed solution, and the plan for 
+project execution.  
+– 
+Presentation slides must be submitted before the start of Lesson 4. The presentation will be 
+recorded for assessment and review purposes. 
+ 
+Lesson 4 Assessment & Milestone 
+– 
+The Project Proposal Presentation, along with the revised slides, will contribute 5% of 
+the overall course grade.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5% 
+5 
+ 
+Feedback on Proposal 
+– 
+The instructor will provide feedback on the project proposals, highlighting strengths and 
+areas for improvement.  
+ 
+Problem Investigation 
+– 
+Students should conduct a detailed examination of the problem and refine their proposed 
+solutions based on the feedback received. The revised proposal (slides) must be submitted 
+within one week after Lesson 5. 
+ 
+Interim Report Briefing 
+– 
+A briefing will be conducted to outline the requirements and expectations for the upcoming 
+Interim Report, ensuring students understand the key elements to include and the standards 
+to meet. 
+ 
+ 
+ 
+6 
+Project Progress Presentation 
+– 
+Students must present the current status and progress of their projects. The presentation 
+should adhere to formal academic standards and cover key developments, challenges 
+encountered, and plans for the next stages of the project. 
+ 
+Pre-Examination Period Assessment & Milestone 
+Logbook Submission 
+– 
+Groups must submit their 1st Semester Logbook on or before 11:59 pm, Wednesday, 16th 
+December 2026. This submission will account for 2.5% of the overall course grade. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.5% 
+ 
+ 
+
+===== PAGE 21/62 =====
+CCIT4080 PKPD – Project Guidelines – (5) Schedule and Assessment 
+ 
+21
+Semester 2 
+Lesson 
+Activity/Milestone 
+Weighting 
+1 
+ 
+Pre-Semester Start Assessment & Milestone 
+– 
+Students are required to submit their Interim Report (1st Submission) on or before 11:59 
+pm, Saturday, 9th January 2027. This submission will account for 5% of the overall course 
+grade. 
+ 
+Feedback on Interim Report (1st Submission) 
+– 
+The instructor will provide feedback on the Interim Report (1st Submission) during Lesson 
+1, highlighting areas for improvement and offering guidance on how to enhance the report's 
+quality. 
+ 
+Lesson 1 Assessment & Milestone 
+Interim Report (2nd Submission): 
+– 
+Groups must submit their Interim Report (2nd Submission) within one week after Lesson 
+1. This submission will account for 5% of the overall course grade. 
+ 
+ 
+5% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5% 
+ 
+2 - 5 
+Assessments Briefing 
+– 
+A briefing will be conducted to outline the requirements and expectations for the upcoming 
+assessments. 
+ 
+Feedback on Interim Report (2nd Submission) 
+– 
+The instructor will provide feedback on the Interim Report (2nd Submission), highlighting 
+areas for improvement and offering guidance on preparing the Final Report. 
+ 
+Project Progress & Prototype Review 
+– 
+Students are required to present the current status and advancements of their projects, 
+including updates on research, design, and development stages. 
+– 
+Students must also present their work-in-progress prototype (or testing evidence) for a 
+preliminary review. This is a critical checkpoint to ensure functionality and design are on 
+track before the final evaluation. Failure to present a preliminary prototype or testing 
+evidence during these lessons will result in a significant downgrade in the relevant 
+assessments. 
+ 
+Post-Lesson 4 Milestone Assessment & Milestone 
+Individual Self-Reflection Report Submission: 
+– 
+Students must submit their Individual Self-Reflection Report within one week after Lesson 
+4. This submission will account for 5% of the overall course grade. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5% 
+ 
+5* - 6 
+In-Class Project Final Presentation 
+– 
+Students are required to present their final project outcomes during this lesson. 
+– 
+Due to limited contact hours, in-class presentations will focus on the project outcomes, such 
+as the status of the prototype, testing performed, and test results. This approach is designed 
+to gather supervisors' feedback, allowing students to refine and enhance their self-recorded 
+final presentations. 
+ 
+Pre-Semester End Assessment & Milestone 
+– 
+Students must submit the following items by 11:59 pm, Tuesday, 27th April 2027 (except 
+for classes with their last lesson on 26th or 27th April 2027). These items contribute to the 
+overall course grade: 
+– 
+2nd Semester Logbook (2.5%) 
+– 
+(Self-Recorded) Project Presentation (15%)* 
+– 
+Project Final Report (20%)* 
+– 
+Project Deliverable (35%)* 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.5% 
+15% 
+20% 
+35% 
+ 
+ 
+ 
+Total: 95%# 
+# Excluded Peer Evaluation(s) (5%) 
+Remark: In addition to the required SOUL submissions, each group must maintain a well-organised shared OneDrive folder containing 
+the group's project assessment materials and supporting files for supervisor and second-examiner access. The shared folder should 
+include the relevant group assessment submissions and supporting project materials, but should exclude individual Peer Evaluation 
+submissions. 
+ 
+Detailed requirements for these assessments are provided in Section (6). 
+
+===== PAGE 22/62 =====
+CCIT4080 PKPD – Project Guidelines – (6) Assessment Details 
+ 
+22
+(6) Assessment Details 
+ 
+General Assessment Requirements 
+SOUL is the primary platform for formal assessment submission. Students are responsible for 
+ensuring that the correct files are submitted in the required format and by the applicable deadline 
+specified in Section (5) and/or subsequent course announcements. 
+ 
+In addition, each group must maintain the shared OneDrive folder described in Section (5) for project 
+archiving, supervisor access, and second-examiner access where applicable. 
+ 
+The assessment descriptions in this section provide guidance on the expected scope and content of 
+each assessment. They should be read together with the corresponding marking rubrics. The 
+suggested headings or structures are not necessarily rigid templates; depending on the nature of the 
+project, students may organise their work differently where an alternative structure communicates the 
+required content more appropriately. 
+ 
+Assessment Based on Content and Evidence 
+Assessment is based on the quality and relevance of the work actually presented, rather than 
+merely the presence of a section heading, diagram, table, prototype feature, or other item. 
+ 
+Where a required or assessed element is materially absent, the corresponding marking category may 
+be assessed within the Inadequate band. Merely including a heading without meaningful relevant 
+content does not constitute completion of that element. 
+ 
+Students should ensure that significant claims concerning project design, implementation, progress, 
+functionality, performance, testing, or achievement are supported by appropriate evidence wherever 
+applicable. 
+ 
+Evidence may include, depending on the nature of the project: 
+– academic or technical references; 
+– engineering calculations; 
+– system, circuit, mechanical, software, or other technical diagrams; 
+– photographs or videos of development work; 
+– screenshots or screen recordings; 
+– source-code or version-control records; 
+– experimental procedures and observations; 
+– test cases, measurement data, and test results; 
+– project schedules and progress records; 
+– meeting records and Logbook entries; and 
+– other relevant project artefacts. 
+ 
+Claims that cannot be reasonably supported by the submitted work or other available project evidence 
+may receive limited credit. 
+ 
+ 
+
+===== PAGE 23/62 =====
+CCIT4080 PKPD – Project Guidelines – (6) Assessment Details 
+ 
+23
+Accuracy and Consistency of Project Reporting 
+Assessment materials should accurately represent the actual status of the project. Students should 
+clearly distinguish between: 
+– work that has been completed; 
+– work that is currently in progress; and 
+– work that is planned but not yet completed. 
+ 
+Planned features, intended experiments, expected results, or proposed improvements should not be 
+presented as completed achievements. 
+ 
+Information should also remain reasonably consistent across different parts of the project 
+documentation. Where the project scope, technical approach, requirements, schedule, resources, or 
+implementation has changed, the change should be clearly explained and the relevant assessment 
+materials updated accordingly. 
+ 
+Use of Appropriate Sources and References 
+Students are expected to use appropriate and credible sources to support background information, 
+technical decisions, engineering claims, component specifications, market comparisons, 
+methodologies, and other externally derived information where relevant. 
+ 
+The quality, relevance, and appropriate use of sources may affect the assessment of the corresponding 
+content. 
+ 
+All sources used should be cited consistently. APA and IEEE citation styles are preferred for this 
+course, although another recognised academic citation style may be used consistently where 
+appropriate. 
+ 
+Group and Individual Assessment 
+CCIT4080 includes both group-based and individual assessments. 
+ 
+Group-based marks reflect the overall quality of the work produced collaboratively, whereas 
+individual marks consider the student's own contribution, involvement, technical work, 
+communication, and other relevant evidence. 
+ 
+Students within the same group should therefore not assume that identical final marks will necessarily 
+be awarded where meaningful differences in individual contribution or performance are identified. 
+Relevant evidence may include: 
+– observations during project sessions; 
+– work demonstrated during supervisor consultation; 
+– submitted project materials; 
+– Logbook and project records; 
+– Peer Evaluation(s); 
+– Individual Self-Reflection Reports; 
+– presentation performance; and 
+– other appropriate evidence of individual contribution. 
+
+===== PAGE 24/62 =====
+CCIT4080 PKPD – Project Guidelines – (6) Assessment Details – Project Proposal Presentation 
+ 
+24
+Project Proposal Presentation (5%) 
+The Project Proposal Presentation represents the first formal assessment of the proposed project. Its 
+purpose is to demonstrate that the group has identified an appropriate problem, conducted sufficient 
+preliminary investigation, developed a feasible preliminary solution, and established a realistic plan 
+for carrying out the project over the two-semester period. 
+ 
+Each group should normally allocate approximately 15 minutes for the presentation. 
+ 
+The presentation should be prepared for an engineering audience and should communicate the 
+proposed project clearly and professionally. Supporting references, diagrams, preliminary 
+calculations, comparisons, or other evidence should be used where appropriate. 
+ 
+The presentation should address the following areas. 
+– Problem Statement, Project Goals and Objectives 
+Clearly define the real-world problem, engineering need, or technical challenge that the project 
+intends to address. 
+ 
+The problem should be sufficiently specific and should be supported, where appropriate, by 
+credible evidence such as academic publications, technical reports, industry information, market 
+information, standards, statistics, or other relevant sources. 
+ 
+The group should explain: 
+⚫ 
+what the identified problem is; 
+⚫ 
+who or what is affected by the problem, where relevant; 
+⚫ 
+why the problem is meaningful or worth addressing; 
+⚫ 
+the overall goal of the proposed project; and 
+⚫ 
+the specific objectives that the project intends to achieve. 
+ 
+Project objectives should be sufficiently clear to guide subsequent development. Where 
+reasonably possible, objectives should be measurable or evaluable at the end of the project. 
+ 
+The group should therefore begin considering appropriate success criteria, performance 
+indicators, test cases, measurements, or other methods that could later be used to determine 
+whether the objectives have been achieved. 
+ 
+– Project Feasibility and Proposed Solution 
+Present the proposed solution and explain how it is expected to address the identified problem 
+and achieve the project objectives. 
+ 
+The presentation should demonstrate that the group has conducted sufficient preliminary 
+investigation to support the proposed direction rather than selecting technologies or approaches 
+without justification. 
+ 
+Where appropriate, the group should consider: 
+⚫ 
+the overall system or solution concept; 
+⚫ 
+major hardware and/or software components; 
+
+===== PAGE 25/62 =====
+CCIT4080 PKPD – Project Guidelines – (6) Assessment Details – Project Proposal Presentation 
+ 
+25
+⚫ 
+relevant engineering principles, technologies, or methods; 
+⚫ 
+possible alternative approaches; 
+⚫ 
+major technical challenges or uncertainties; 
+⚫ 
+availability of required equipment, software, materials, or other resources; 
+⚫ 
+expected cost; 
+⚫ 
+technical complexity; 
+⚫ 
+time available for development; and 
+⚫ 
+major risks that could affect completion of the project. 
+ 
+Where multiple reasonable approaches are available, students are encouraged to briefly compare 
+them and explain why the proposed approach is considered suitable. 
+ 
+At the proposal stage, the design does not need to be final. However, the group should 
+demonstrate that the proposed solution is technically meaningful, reasonably feasible, and 
+sufficiently developed to provide a credible basis for subsequent project work. 
+ 
+– Schedule 
+Provide a project schedule covering the major stages of work from the beginning of the project 
+to the final project deadline in late April. 
+ 
+The schedule should identify appropriate: 
+– tasks or work packages; 
+– major milestones; 
+– dependencies where relevant; 
+– target completion periods; 
+– development and integration stages; 
+– testing and evaluation activities; 
+– preparation of assessment deliverables; and 
+– reasonable contingency or buffer time. 
+ 
+The schedule should be sufficiently detailed to allow subsequent comparison between planned 
+and actual progress. 
+ 
+Students should avoid placing most implementation, integration, or testing activities 
+immediately before the final submission deadline. Sufficient time should be reserved for 
+troubleshooting, testing, evaluation, refinement, and preparation of the final assessment 
+materials. 
+ 
+– Resource Allocation 
+Explain how the resources required for the project will be allocated. 
+ 
+This should include human resources, with the preliminary responsibilities or major work areas 
+assigned to each group member. 
+ 
+ 
+
+===== PAGE 26/62 =====
+CCIT4080 PKPD – Project Guidelines – (6) Assessment Details – Project Proposal Presentation 
+ 
+26
+Depending on the project, resource planning should also consider: 
+⚫ 
+hardware components; 
+⚫ 
+materials and fabrication; 
+⚫ 
+laboratory equipment; 
+⚫ 
+software, platforms, APIs, or cloud services; 
+⚫ 
+computing resources; 
+⚫ 
+datasets or other information resources; 
+⚫ 
+estimated expenditure or project budget; and 
+⚫ 
+other specialised resources required for development or testing. 
+ 
+The proposed allocation should be realistic and consistent with the project scope and schedule. 
+ 
+The division of work should demonstrate that each member is expected to make a fair, 
+meaningful, and identifiable contribution, while recognising that responsibilities may change as 
+the project develops. 
+ 
+– Overall Presentation Quality 
+The presentation should communicate the proposal in a clear, logical, concise, and professional 
+manner. Assessment may consider: 
+⚫ 
+organisation and logical flow; 
+⚫ 
+clarity of explanations; 
+⚫ 
+quality and relevance of presentation materials; 
+⚫ 
+effective use of diagrams, figures, tables, and references; 
+⚫ 
+appropriateness of technical depth; 
+⚫ 
+presentation delivery; 
+⚫ 
+time management; and 
+⚫ 
+the group's ability to demonstrate an informed understanding of the proposed project. 
+ 
+Presentation materials should support the explanation rather than consist primarily of large 
+amounts of text intended to be read directly from the slides. 
+ 
+– Assessment Weighting 
+The Project Proposal Presentation contributes 5% of the overall course grade. The corresponding 
+assessment areas are: 
+Assessment Area 
+Weighting within Assessment 
+Problem Statement, Project Goals and Objectives 
+10% 
+Project Feasibility and Proposed Solution 
+30% 
+Schedule 
+20% 
+Resource Allocation 
+20% 
+Overall Presentation Quality 
+20% 
+Total 
+100% 
+
+===== PAGE 27/62 =====
+CCIT4080 PKPD – Project Guidelines – (6) Assessment Details – Interim Report 
+ 
+27
+Interim Report (10%) 
+The Interim Report is intended to demonstrate the substantive development of the project beyond 
+the proposal stage. It should provide an evidence-based account of the group's current understanding 
+of the problem, requirements, design, technical decisions, implementation progress, testing, project 
+management, and remaining work. 
+ 
+The Interim Report consists of two assessed submissions*: 
+• 
+Interim Report – 1st Submission: 5% 
+• 
+Interim Report – 2nd Submission: 5% 
+ 
+Each group is expected to produce a professionally formatted report of at least 1000 words. 
+ 
+The 2nd Submission should be a revised and improved version of the report that meaningfully 
+responds to the feedback provided on the 1st Submission. Revision should address technical, 
+analytical, structural, evidential, and presentation issues where applicable, rather than being limited 
+to minor wording or formatting changes. 
+ 
+The following structure is expected. Project-specific subsections may be added or reorganised where 
+appropriate, provided that the required assessment content remains clearly identifiable. 
+ 
+– Front Page 
+The Front Page should include the following information in a clear and professional hierarchy: 
+⚫ 
+College Name; 
+⚫ 
+Programme Name; 
+⚫ 
+Course Code and Course Name; 
+⚫ 
+Class Number and Group Number; 
+⚫ 
+Project Title; 
+⚫ 
+Assessment Item 
+⚫ 
+i.e. Interim Report – 1st Submission or Interim Report – 2nd Submission; 
+⚫ 
+group members' names and Student IDs (SIDs); 
+⚫ 
+supervisor's name; and 
+⚫ 
+submission date. 
+ 
+– Abstract 
+Provide a concise summary of the project and its current interim status. The Abstract should 
+normally summarise: 
+⚫ 
+the problem being addressed; 
+⚫ 
+the proposed solution; 
+⚫ 
+the principal approach or methodology; 
+⚫ 
+work completed to date; 
+⚫ 
+significant interim findings or results, where available; 
+⚫ 
+major work that remains outstanding; and 
+⚫ 
+the next stage of development. 
+The Abstract should accurately reflect the content of the report. Strong claims concerning 
+implementation, performance, effectiveness, completion, or results should not be made unless 
+they are supported by evidence presented in the main body of the report.  
+
+===== PAGE 28/62 =====
+CCIT4080 PKPD – Project Guidelines – (6) Assessment Details – Interim Report 
+ 
+28
+– Acknowledgement (if applicable) 
+Acknowledge relevant assistance, facilities, resources, technical support, or other contributions 
+received from persons or organisations outside the project group. 
+ 
+– Table of Contents 
+Provide a properly structured Table of Contents showing the report headings and corresponding 
+starting page numbers. 
+ 
+The section titles and numbering shown in the Table of Contents should match the headings used 
+in the report. 
+ 
+– List of Figures 
+Provide a numbered list of all figures with their captions and corresponding page numbers. 
+ 
+All figures should: 
+⚫ 
+be numbered consistently; 
+⚫ 
+contain meaningful captions; 
+⚫ 
+be referred to and explained in the main text; and 
+⚫ 
+identify or cite external sources where applicable. 
+ 
+– List of Tables (if applicable) 
+Provide a numbered list of all tables with their titles and corresponding page numbers. 
+ 
+All tables should be numbered consistently, clearly titled, and referred to appropriately in the 
+main text. 
+ 
+– Introduction 
+Introduce the project sufficiently for a reader who may not be familiar with the original Project 
+Proposal. 
+ 
+The Introduction should normally include: 
+⚫ 
+project background and context; 
+⚫ 
+the specific problem or need being addressed; 
+⚫ 
+project goals and objectives; 
+⚫ 
+scope and relevant constraints; 
+⚫ 
+important theories, concepts, or terminology required to understand the project; and 
+⚫ 
+a brief overview of the development process and current project stage. 
+ 
+Project objectives should be stated clearly and, where reasonably possible, in a manner that can 
+later be evaluated. 
+ 
+Where the project scope, objectives, or technical direction have changed substantially since the 
+Project Proposal, the changes and reasons should be clearly explained. 
+ 
+ 
+ 
+
+===== PAGE 29/62 =====
+CCIT4080 PKPD – Project Guidelines – (6) Assessment Details – Interim Report 
+ 
+29
+– Literature Review 
+Review and critically analyse relevant literature, existing systems, products, services, 
+technologies, theories, designs, methods, or other prior work that informs the project. 
+ 
+The scope of the Literature Review will depend on the nature of the project. It may include: 
+⚫ 
+academic literature; 
+⚫ 
+existing commercial products or services; 
+⚫ 
+comparable engineering systems or prototypes; 
+⚫ 
+relevant theories and concepts; 
+⚫ 
+engineering designs or reference architectures; 
+⚫ 
+algorithms and technical methods; 
+⚫ 
+hardware or software technologies; 
+⚫ 
+standards and specifications; 
+⚫ 
+datasheets or other authoritative technical documentation; and 
+⚫ 
+other relevant sources. 
+ 
+The Literature Review should not merely summarise existing work. It should demonstrate how 
+the review informed the development of the project by: 
+⚫ 
+comparing relevant alternatives; 
+⚫ 
+identifying strengths and limitations; 
+⚫ 
+identifying gaps or unresolved problems; 
+⚫ 
+supporting technical assumptions; 
+⚫ 
+justifying requirements; and 
+⚫ 
+informing subsequent design and engineering decisions. 
+ 
+Where appropriate, comparison tables or other structured forms should be used to compare 
+existing systems, products, methods, or technical approaches. 
+ 
+⚫ 
+Project Requirements 
+Relevant findings from the Literature Review should be translated into appropriate project 
+requirements and design considerations. Where suitable, students should identify: 
+• Functional Requirements (FRs): what the proposed system or solution is required to 
+do; and 
+• Non-Functional Requirements (NFRs): relevant performance, reliability, usability, 
+safety, cost, compatibility, resource, environmental, or other constraints. 
+ 
+Requirements should be sufficiently clear and, where reasonably possible, measurable and 
+testable. Numerical targets or thresholds should be supported by appropriate sources, 
+calculations, preliminary investigation, or other reasonable justification rather than being 
+selected arbitrarily. 
+ 
+The use of identifiers such as FR-01, FR-02, NFR-01, NFR-02, etc. is encouraged where this 
+improves clarity and traceability. 
+ 
+Students should aim to establish a logical relationship between: 
+Problem and Objectives → Literature / Existing Solutions → Derived Requirements → 
+Design and Testing 
+ 
+ 
+ 
+
+===== PAGE 30/62 =====
+CCIT4080 PKPD – Project Guidelines – (6) Assessment Details – Interim Report 
+ 
+30
+– Design, Methodology and Implementation 
+This section should explain the proposed technical solution, the approach used to develop and 
+evaluate it, and the work that has actually been implemented at the interim stage. 
+ 
+Depending on the nature of the project, the section may be divided into the following subsections. 
+⚫ 
+Design 
+The Design should explain what has been designed and how the proposed system or 
+solution is intended to work. 
+ 
+Students should provide an appropriate overall system or solution architecture and explain 
+how the major components, subsystems, modules, or processes interact. 
+ 
+Depending on the project, appropriate content may include: 
+• overall system architecture; 
+• hardware and software subsystems; 
+• circuit design; 
+• mechanical or structural design; 
+• software architecture; 
+• algorithms and processing logic; 
+• data structures or databases; 
+• user-interface design; 
+• communication interfaces; 
+• control logic; 
+• workflow or state transitions; 
+• component selection;  
+• integration between subsystems; and 
+• etc. 
+ 
+Appropriate engineering representations should be used where applicable, such as system 
+block diagrams, circuit schematics, flowcharts, state diagrams, mechanical drawings, 
+wiring diagrams, interface diagrams, software architecture diagrams, or other relevant 
+technical figures. 
+ 
+Major design and component choices should be justified. Where reasonable alternatives 
+exist, students should compare appropriate options using relevant criteria such as 
+performance, cost, reliability, complexity, compatibility, availability, power consumption, 
+development time, or other project-specific constraints. 
+ 
+The design should clearly respond to the requirements and findings established from the 
+earlier sections. 
+ 
+⚫ 
+Methodology 
+The Methodology should explain how the project is being developed, investigated, 
+verified, and evaluated. 
+ 
+Depending on the project, this may include: 
+• development or prototyping approach; 
+• experimental procedures; 
+• technical decision-making methods; 
+• data-collection methods; 
+• calibration procedures; 
+• algorithm-development approaches; 
+
+===== PAGE 31/62 =====
+CCIT4080 PKPD – Project Guidelines – (6) Assessment Details – Interim Report 
+ 
+31
+• integration strategy; 
+• verification methods; 
+• testing procedures; and 
+• evaluation metrics or acceptance criteria. 
+ 
+Where alternative approaches or methods have been considered, students should briefly 
+compare them and justify the selected approach. 
+ 
+The Methodology should not simply repeat the Design or provide a list of technologies 
+used. It should explain the approach and reasoning used to develop and evaluate the 
+solution. 
+ 
+⚫ 
+Implementation 
+The Implementation should provide an evidence-based account of what has actually been 
+developed, constructed, programmed, configured, integrated, or tested by the time of 
+submission. 
+ 
+Students should clearly distinguish among: 
+• completed work; 
+• work currently in progress; and 
+• planned or remaining work. 
+ 
+Depending on the project, appropriate evidence may include: 
+• prototype photographs; 
+• circuit or wiring records; 
+• fabrication outputs; 
+• screenshots of implemented software; 
+• source-code or version-control records; 
+• implemented algorithms; 
+• interface screenshots; 
+• experimental setups; 
+• system-integration evidence; 
+• measurement records; 
+• test logs; and 
+• other relevant project artefacts. 
+ 
+Where implementation differs from the original design or proposal, the changes and reasons 
+should be explained. 
+ 
+Students should also discuss significant technical difficulties encountered, investigation or 
+troubleshooting undertaken, solutions attempted, and the resulting outcomes. 
+ 
+Where preliminary testing has been conducted, the report should explain: 
+• what was tested; 
+• the test setup and conditions; 
+• the procedure used; 
+• the relevant requirement or objective; 
+• expected or acceptance criteria, where applicable; 
+• results obtained; and 
+• interpretation of the results. 
+ 
+ 
+
+===== PAGE 32/62 =====
+CCIT4080 PKPD – Project Guidelines – (6) Assessment Details – Interim Report 
+ 
+32
+Where meaningful testing has not yet been completed, this should be stated accurately and 
+the planned testing approach should be described instead. 
+ 
+– Scheduling and Resource Allocation 
+Review the project schedule and resource allocation against the actual progress and resource 
+usage to date. 
+ 
+The schedule review should identify: 
+⚫ 
+originally planned activities and milestones; 
+⚫ 
+actual completion status; 
+⚫ 
+differences between planned and actual progress; 
+⚫ 
+delays or changes and their causes; 
+⚫ 
+outstanding tasks; 
+⚫ 
+revised target dates; and 
+⚫ 
+appropriate recovery actions or contingency arrangements where necessary. 
+ 
+A revised schedule should be provided where the original schedule is no longer accurate. 
+ 
+The resource review should consider, where applicable: 
+⚫ 
+allocation of responsibilities among group members; 
+⚫ 
+equipment and laboratory resources; 
+⚫ 
+hardware components and materials; 
+⚫ 
+software and computing resources; 
+⚫ 
+APIs, cloud services, or other external services; 
+⚫ 
+expenditure and budget; 
+⚫ 
+resources already used or purchased; and 
+⚫ 
+resources still required. 
+ 
+Statements that a project is "on schedule", "within budget", or progressing according to plan 
+should be supported by an appropriate comparison between planned and actual progress or 
+resource usage. 
+ 
+– Discussion 
+Critically discuss the current state of the project based on the work and evidence presented 
+earlier in the report. The Discussion may address: 
+⚫ 
+progress towards the project objectives; 
+⚫ 
+extent to which requirements have currently been addressed; 
+⚫ 
+effectiveness of the design or implementation to date; 
+⚫ 
+interpretation of preliminary testing or experimental results; 
+⚫ 
+technical strengths and limitations; 
+⚫ 
+problems encountered and their causes; 
+⚫ 
+trade-offs or compromises made; 
+⚫ 
+lessons learned from the development process; 
+⚫ 
+risks affecting the remaining project work; and 
+⚫ 
+priorities for the next stage. 
+ 
+
+===== PAGE 33/62 =====
+CCIT4080 PKPD – Project Guidelines – (6) Assessment Details – Interim Report 
+ 
+33
+The Discussion should analyse and interpret the project evidence rather than merely repeat 
+earlier descriptions. Results or achievements that have not been documented in the Design, 
+Methodology and Implementation section should not be introduced for the first time as 
+unsupported claims in the Discussion. 
+ 
+As this is an Interim Report, the discussion should accurately recognise that the project remains 
+under development. 
+ 
+– Individual Progress 
+Provide a separate subsection for each group member summarising their individual 
+responsibilities and progress. Each member's subsection should include: 
+⚫ 
+a portrait photograph; 
+⚫ 
+full name and Student ID (SID); 
+⚫ 
+project role or major responsibilities; 
+⚫ 
+specific tasks completed; 
+⚫ 
+concrete outputs or deliverables produced; 
+⚫ 
+current work in progress; and 
+⚫ 
+major tasks planned for the next stage. 
+ 
+Descriptions should be sufficiently specific to demonstrate identifiable individual contribution. 
+ 
+– References 
+Provide a complete list of all sources cited in the report using a consistent recognised academic 
+citation style. 
+ 
+APA and IEEE citation styles are preferred for this course.  
+ 
+Students should ensure that: 
+⚫ 
+every in-text citation has a corresponding reference; 
+⚫ 
+references listed are actually used in the report; 
+⚫ 
+external figures, tables, data, designs, technical specifications, software, APIs, libraries, or 
+other resources are appropriately attributed where required; and 
+⚫ 
+reference information is sufficiently complete and accurate. 
+ 
+– Appendices (if applicable) 
+Include supplementary materials that support the main report but would interrupt the flow if 
+included in the main body. Examples may include: 
+⚫ 
+additional test data; 
+⚫ 
+extended calculations; 
+⚫ 
+code excerpts; 
+⚫ 
+detailed technical specifications; 
+⚫ 
+additional diagrams; 
+⚫ 
+screenshots or logs; 
+⚫ 
+receipts or detailed cost records; and 
+⚫ 
+other supporting project evidence. 
+Appendices should be clearly labelled and referred to from the main body where relevant. 
+
+===== PAGE 34/62 =====
+CCIT4080 PKPD – Project Guidelines – (6) Assessment Details – Interim Report 
+ 
+34
+Relationship with the Marking Scheme 
+The formal report sections above and the marking-scheme categories are not intended to 
+correspond one-to-one. 
+ 
+The marking scheme assesses the quality of relevant content wherever it is appropriately presented 
+in the report. For example: 
+Marking-Scheme Category 
+Principal Evidence Normally Found In 
+Abstract / Executive Summary 
+Abstract 
+Review of Current System /  
+Market Environment 
+Primarily Literature Review; relevant Introduction content may also 
+contribute 
+Detailed Requirement Specifications 
+Primarily Literature Review and derived requirements; relevant 
+Design content may also contribute 
+Detailed Design Specifications 
+Primarily Design 
+Current Progress 
+Primarily Implementation, preliminary testing, and relevant 
+Discussion 
+Scheduling and Resource Allocation Review 
+Scheduling and Resource Allocation 
+Overall Impression 
+The report as a whole 
+ 
+The Interim Report is assessed according to the following weighting: 
+Assessment Area 
+Weighting within the Interim Report 
+Abstract / Executive Summary 
+5% 
+Review of Current System / Market Environment 
+10% 
+Detailed Requirement Specifications 
+25% 
+Detailed Design Specifications 
+25% 
+Current Progress 
+15% 
+Scheduling and Resource Allocation Review 
+10% 
+Overall Impression 
+10% 
+Total 
+100% 
+ 
+Where an assessed element is materially missing or contains no meaningful relevant content, the 
+corresponding assessment category may be assessed within the Inadequate band. 
+ 
+ 
+ 
+
+===== PAGE 35/62 =====
+CCIT4080 PKPD – Project Guidelines – (6) Assessment Details – Individual Self-Reflection Report 
+ 
+35
+Individual Self-Reflection Report (5%) 
+The Individual Self-Reflection Report is an individual assessment intended to evaluate each 
+student's role, contribution, learning, and reflection on the experience of completing the project as a 
+member of the group. The report should be written individually and should reflect the student's own 
+project experience. It should not merely repeat the general description of the project. 
+ 
+Students are expected to provide specific and credible examples of their work and experiences rather 
+than relying on broad statements such as "helped with programming", "worked on the hardware", or 
+"learned teamwork". 
+ 
+Where appropriate, students should refer to concrete project evidence such as completed tasks, 
+technical outputs, design work, source code, prototype development, test results, documentation, 
+meeting records, Logbook entries, or other identifiable contributions. 
+ 
+The report should normally address the following areas. 
+– Role and Responsibilities 
+Describe the student's role and responsibilities within the project group. The discussion should 
+explain: 
+⚫ 
+the main responsibilities assigned to the student; 
+⚫ 
+the technical and/or non-technical areas for which the student was primarily responsible; 
+⚫ 
+how these responsibilities related to the overall project; and 
+⚫ 
+whether the student's role or responsibilities changed during the project and, if so, why. 
+ 
+The description should distinguish between the student's expected responsibilities and the work 
+that was actually completed. 
+ 
+– Contributions to the Project 
+Describe and evaluate the student's actual contributions to the project.  
+ 
+This should include specific tasks, technical work, decisions, outputs, or deliverables completed 
+by the student. Students should explain what they personally contributed and how those 
+contributions supported the development or completion of the overall project. 
+ 
+Where a task was completed collaboratively, the student's own contribution should be identified 
+as clearly as reasonably possible. Relevant evidence may be referenced where appropriate to 
+support the reflection. 
+ 
+– Skills Acquired from the Project 
+Reflect critically on the knowledge, skills, and experience gained through the project.  
+ 
+Students should go beyond simply listing skills acquired. A strong reflection should explain: 
+⚫ 
+what was learned; 
+⚫ 
+how it was learned; 
+⚫ 
+why it was important to the project; 
+⚫ 
+how the student's understanding or ability changed; and 
+⚫ 
+how the experience may influence future study or professional work. 
+
+===== PAGE 36/62 =====
+CCIT4080 PKPD – Project Guidelines – (6) Assessment Details – Individual Self-Reflection Report 
+ 
+36
+Where difficulties, mistakes, unsuccessful approaches, or changes of direction contributed to 
+learning, these may also form an important part of the reflection. 
+ 
+– Team Coordination Efficiency 
+Evaluate the effectiveness of the project group from the student's perspective. The discussion 
+may be considered: 
+⚫ 
+division of responsibilities; 
+⚫ 
+communication among group members; 
+⚫ 
+coordination of tasks; 
+⚫ 
+attendance and participation; 
+⚫ 
+decision-making; 
+⚫ 
+management of disagreements or technical differences; 
+⚫ 
+sharing of information and project resources; 
+⚫ 
+ability to meet milestones and deadlines; and 
+⚫ 
+overall effectiveness of collaboration. 
+ 
+Students should identify both strengths and areas for improvement where appropriate. The 
+discussion should be constructive and supported by specific examples rather than consisting only 
+of general statements such as "the teamwork was good" or "communication could be improved". 
+ 
+Where significant concerns regarding individual contribution or possible free-riding exist, 
+students should follow the Peer Evaluation and Free-Rider Reporting procedures specified in the 
+relevant subsection of these Guidelines. The Self-Reflection Report alone does not constitute 
+formal reporting of a free-rider case. 
+ 
+– Personal Log or Supporting Evidence (if applicable) 
+Students may include or refer to a personal activity log or other supporting evidence where this 
+helps demonstrate their contribution and development throughout the project. 
+ 
+Overall Quality of the Report 
+The Individual Self-Reflection Report should be: 
+– clearly organised; 
+– professionally presented; 
+– concise but sufficiently detailed; 
+– written in an appropriate academic and professional tone; 
+– internally consistent; and 
+– focused on genuine reflection rather than merely describing project activities. 
+ 
+The quality of reflection is important. Higher-quality work should demonstrate critical consideration 
+of the student's own performance, learning, decisions, difficulties, and development, rather than 
+simply providing a chronological list of tasks completed. 
+ 
+Assessment Weighting 
+The Individual Self-Reflection Report contributes 5% of the overall course grade*. 
+
+===== PAGE 37/62 =====
+CCIT4080 PKPD – Project Guidelines – (6) Assessment Details – Peer Evaluation 
+ 
+37
+Peer Evaluation(s) (5%) 
+Peer Evaluation is an individual assessment intended to encourage appropriate individual 
+contribution, responsibility, and cooperation throughout the two-semester group project. 
+ 
+A total of five Peer Evaluations will be conducted during the course. Each Peer Evaluation 
+contributes a maximum of 1% of the overall course grade, giving a total weighting of 5%. 
+ 
+The five evaluations will normally be conducted as follows: 
+Semester 
+Evaluation Period 
+Maximum Course Mark 
+Semester 1 
+November 2026 
+1% 
+Semester 2 
+January 2027 
+1% 
+Semester 2 
+February 2027 
+1% 
+Semester 2 
+March 2027 
+1% 
+Semester 2 
+April 2027 
+1% 
+Total 
+5% 
+ 
+Students are required to complete and submit each Peer Evaluation individually within the 
+announced submission period. 
+ 
+– Peer Evaluation Criteria 
+For each evaluation, students will be asked to assess their own contribution and the contributions 
+of other members of the group in the following areas: 
+⚫ 
+Performance on Tasks; and 
+⚫ 
+Degree of Cooperation. 
+ 
+The following rating scale will be used: 
+Performance Level 
+No Effort* 
+Inadequate* 
+Borderline 
+Satisfactory 
+Good 
+Excellent* 
+Rating 
+0 
+1 
+2 
+3 
+4 
+5 
+ 
+Students must provide appropriate written comments when assigning a rating of 0, 1, or 5 in 
+either assessment area. 
+ 
+Comments should be specific and, where possible, supported by relevant examples or evidence. 
+Students should avoid unsupported, personal, emotional, or retaliatory comments. 
+ 
+Peer Evaluation should be completed independently and honestly. Students should not agree in 
+advance to give one another particular ratings, exchange ratings for mutual benefit, or attempt 
+to influence another member's evaluation. 
+ 
+– Submission and the 1% Assessment Mark 
+Each Peer Evaluation is worth a maximum of 1 percentage point of the overall course grade. 
+ 
+Submission of the student's own Peer Evaluation is required in order to be eligible for the mark 
+associated with that evaluation. 
+ 
+ 
+ 
+
+===== PAGE 38/62 =====
+CCIT4080 PKPD – Project Guidelines – (6) Assessment Details – Peer Evaluation 
+ 
+38
+If a student fails to submit a required Peer Evaluation by the applicable deadline, the 
+student will receive 0% for that Peer Evaluation. The lost 1 percentage point will not be 
+restored based on favourable ratings received from other group members. 
+ 
+Accordingly, a student who fails to submit one of the five Peer Evaluations can obtain a 
+maximum of 4% out of the 5% Peer Evaluation component, regardless of how positively other 
+group members evaluate that student's contribution. 
+ 
+Submission alone does not prevent the Peer Evaluation results from being considered when 
+evaluating the student's actual contribution. Ratings and written comments received from group 
+members may be reviewed together with other available evidence of individual participation and 
+project work. 
+ 
+– Use of Peer Evaluation Results 
+Peer Evaluation serves both as an assessed component and as one source of evidence concerning 
+individual contribution to the project. 
+ 
+The supervisor may consider Peer Evaluation results together with other relevant evidence, 
+including but not limit to: 
+⚫ 
+observations during project sessions; 
+⚫ 
+individual progress demonstrated during supervisor consultation; 
+⚫ 
+project records and Logbook entries; 
+⚫ 
+identifiable technical or documentation outputs; 
+⚫ 
+Individual Self-Reflection Reports; 
+⚫ 
+presentation performance; 
+⚫ 
+source-code or version-control records; 
+⚫ 
+meeting records; 
+⚫ 
+photographs, screenshots, testing records, or other project artefacts; and 
+⚫ 
+other appropriate evidence. 
+ 
+A single low rating does not automatically establish inadequate contribution or a free-rider case. 
+Similarly, consistently high peer ratings do not override clear evidence of insufficient individual 
+contribution. 
+ 
+Where significant and credible differences in contribution are identified, Peer Evaluation results 
+may contribute to adjustments in the relevant individual assessment components. 
+ 
+ 
+ 
+ 
+
+===== PAGE 39/62 =====
+CCIT4080 PKPD – Project Guidelines – (6) Assessment Details – Peer Evaluation 
+ 
+39
+Free-Rider Reporting and Intervention 
+A free rider generally refers to a group member who makes substantially insufficient contribution 
+to the group project while benefiting from work completed by the other members. 
+ 
+Peer Evaluation provides one mechanism for documenting concerns about unequal contribution. 
+However, because a formal free-rider case may lead to substantial consequences for an individual 
+student, Peer Evaluation alone is not sufficient to initiate formal intervention. 
+ 
+Formal Reporting Requirements 
+Where group members wish the project supervisor and/or Course Coordinator to formally 
+investigate and intervene in a suspected free-rider case, both of the following are required: 
+⚫ 
+The concern must be recorded through the relevant Peer Evaluation(s); and 
+⚫ 
+A formal email must be sent to the supervisor using the student's College email account. 
+ 
+Both requirements should normally be satisfied. A concern mentioned only in a Peer Evaluation, 
+Individual Self-Reflection Report, verbal discussion, instant message, or informal communication 
+will not normally be treated as a formal request for free-rider intervention. 
+ 
+The formal email should identify the concern clearly and provide sufficient information for the 
+supervisor to understand the situation. Where possible, relevant evidence should also be provided 
+or identified. Examples of supporting evidence may include: 
+⚫ 
+agreed task allocations; 
+⚫ 
+meeting minutes or records; 
+⚫ 
+Logbook entries; 
+⚫ 
+communication records; 
+⚫ 
+source-code or version-control histories; 
+⚫ 
+shared-document revision histories; 
+⚫ 
+photographs or screenshots; 
+⚫ 
+records of missed agreed work or deadlines; 
+⚫ 
+evidence of repeated non-participation; and 
+⚫ 
+other relevant project records. 
+ 
+Timely Reporting 
+Concerns should be raised as soon as a persistent contribution problem becomes apparent. 
+ 
+Students should not wait until the final assessment period to report a problem that has existed for 
+a substantial period of time, particularly where earlier reporting could reasonably have allowed the 
+supervisor to review the situation and provide guidance or intervention. 
+ 
+Reporting a concern does not automatically establish that another student is a free rider. The 
+supervisor and/or Course Coordinator will review the information available and may seek 
+explanations or additional evidence from the students concerned before determining whether 
+further action is appropriate. 
+ 
+ 
+ 
+
+===== PAGE 40/62 =====
+CCIT4080 PKPD – Project Guidelines – (6) Assessment Details – Peer Evaluation 
+ 
+40
+Free-Rider Mark Adjustment 
+Where the supervisor and/or Course Coordinator determines, based on the available evidence, that 
+a student has made substantially inadequate contribution to the group project, the student's marks 
+in the relevant individual and/or contribution-related assessment components may be 
+substantially reduced. 
+ 
+The extent of any adjustment will depend on the seriousness and duration of the contribution 
+problem and the available evidence. 
+ 
+In serious cases, the assessment outcome may result in a Fail grade for CCIT4080. 
+ 
+As stated in Section (1), failing CCIT4080 generally means that the student has not fulfilled an 
+important graduation requirement of the AENG programme, subject to the applicable programme 
+and College regulations. 
+ 
+Responsibility of the Remaining Group Members 
+A contribution problem involving one or more members does not remove the group's responsibility 
+to manage the project and submit the required assessments. 
+ 
+Where reasonably possible, the remaining members should continue to: 
+⚫ 
+maintain project progress; 
+⚫ 
+review and redistribute essential tasks where necessary; 
+⚫ 
+communicate significant risks to the supervisor; 
+⚫ 
+preserve appropriate evidence of task allocation and contribution; and 
+⚫ 
+ensure that required group submissions are completed by the applicable deadlines. 
+ 
+The existence of a confirmed or suspected free-rider case does not automatically justify incomplete 
+or late group submissions. 
+
+===== PAGE 41/62 =====
+CCIT4080 PKPD – Project Guidelines – (6) Assessment Details – Project Final Report 
+ 
+41
+Project Final Report (20%) 
+The Project Final Report is the complete technical documentation of the project and should provide 
+a coherent, evidence-based account of the project from problem identification and investigation 
+through design, implementation, testing, evaluation, and final conclusions. 
+ 
+Each group should produce a professionally formatted report of at least 2000 words. 
+ 
+The Final Report should reflect the final state of the project. It should therefore update and refine 
+relevant material developed for the Project Proposal and Interim Report rather than simply combining 
+or reproducing earlier submissions. 
+ 
+Materials from the Interim Report may be incorporated where relevant, but they should be reviewed 
+and revised to reflect: 
+⚫ 
+feedback received during the course; 
+⚫ 
+changes in project scope or objectives; 
+⚫ 
+updated requirements; 
+⚫ 
+final design decisions; 
+⚫ 
+actual implementation; 
+⚫ 
+final testing and results; 
+⚫ 
+changes in schedule or resource usage; and 
+⚫ 
+the final conclusions that can reasonably be supported by the completed work. 
+ 
+The following sections are expected. Subsections may be added or adapted according to the nature of 
+the project, provided that the required technical and assessment content is clearly presented. 
+– Front Page 
+The Front Page should include the following information in a clear and professional hierarchy: 
+⚫ 
+College Name; 
+⚫ 
+Programme Name; 
+⚫ 
+Course Code and Course Name; 
+⚫ 
+Class Number and Group Number; 
+⚫ 
+Project Title; 
+⚫ 
+Assessment Item, i.e., Project Final Report; 
+⚫ 
+group members' names and Student IDs (SIDs); 
+⚫ 
+supervisor's name; and 
+⚫ 
+submission date. 
+ 
+– Abstract 
+Provide a concise summary of the completed project. The Abstract should normally summarise: 
+⚫ 
+the problem being addressed; 
+⚫ 
+the proposed and implemented solution; 
+⚫ 
+the principal methodology or technical approach; 
+⚫ 
+major implementation outcomes; 
+⚫ 
+key testing and evaluation results; 
+⚫ 
+significant limitations; and 
+⚫ 
+the overall conclusion of the project. 
+ 
+
+===== PAGE 42/62 =====
+CCIT4080 PKPD – Project Guidelines – (6) Assessment Details – Project Final Report 
+ 
+42
+Unlike the Interim Report, the Final Report Abstract should focus on the actual outcomes 
+achieved, rather than planned or remaining work. 
+ 
+Claims regarding functionality, accuracy, performance, effectiveness, reliability, or achievement 
+should accurately reflect the evidence presented in the report. 
+ 
+– Acknowledgement (if applicable) 
+Acknowledge relevant assistance, facilities, resources, technical support, or other contributions 
+received from persons or organisations outside the project group. 
+ 
+– Table of Contents 
+Provide a properly structured Table of Contents showing the report headings and corresponding 
+starting page numbers. 
+ 
+The section titles and numbering shown in the Table of Contents should match the headings used 
+in the report. 
+ 
+– List of Figures 
+Provide a numbered list of all figures with their captions and corresponding page numbers. 
+ 
+All figures should be appropriately numbered, captioned, referred to in the main text, and 
+attributed where external material is used. 
+ 
+– List of Tables 
+Provide a numbered list of all tables with their titles and corresponding page numbers. 
+ 
+Tables should be numbered consistently, clearly titled, and appropriately referred to in the main 
+text. 
+ 
+– Introduction  
+Introduce the project and establish the context necessary for understanding the completed work. 
+ 
+The Introduction should normally include: 
+⚫ 
+project background and context; 
+⚫ 
+the specific problem or engineering need addressed; 
+⚫ 
+project goals and objectives; 
+⚫ 
+final project scope; 
+⚫ 
+relevant constraints or assumptions; 
+⚫ 
+important theories, concepts, or terminology required to understand the project; and 
+⚫ 
+an overview of the overall development process and report structure. 
+ 
+The objectives presented should correspond to the final agreed project objectives. 
+ 
+Where the scope, objectives, or technical direction changed during the project, the significant 
+changes should be explained appropriately. 
+ 
+ 
+
+===== PAGE 43/62 =====
+CCIT4080 PKPD – Project Guidelines – (6) Assessment Details – Project Final Report 
+ 
+43
+– Literature Review 
+Review and critically analyse relevant literature, existing systems, products, services, 
+technologies, theories, designs, methods, or other prior work that informs the project. 
+ 
+The scope of the Literature Review will depend on the nature of the project. It may include: 
+⚫ 
+academic literature; 
+⚫ 
+existing commercial products or services; 
+⚫ 
+comparable engineering systems or prototypes; 
+⚫ 
+relevant theories and concepts; 
+⚫ 
+engineering designs or reference architectures; 
+⚫ 
+algorithms and technical methods; 
+⚫ 
+hardware or software technologies; 
+⚫ 
+standards and specifications; 
+⚫ 
+datasheets or other authoritative technical documentation; and 
+⚫ 
+other relevant sources. 
+ 
+The Literature Review should not merely summarise existing work. It should demonstrate how 
+the review informed the development of the project by: 
+⚫ 
+comparing relevant alternatives; 
+⚫ 
+identifying strengths and limitations; 
+⚫ 
+identifying gaps or unresolved problems; 
+⚫ 
+supporting technical assumptions; 
+⚫ 
+justifying requirements; and 
+⚫ 
+informing subsequent design and engineering decisions. 
+ 
+Where appropriate, comparison tables or other structured forms should be used to compare 
+existing systems, products, methods, or technical approaches. 
+ 
+⚫ 
+Project Requirements 
+Relevant findings from the Literature Review and problem investigation should lead to a 
+clear set of final project requirements. 
+ 
+These may include: 
+• Functional Requirements (FRs): what the proposed system or solution is required to 
+do; and 
+• Non-Functional Requirements (NFRs): relevant performance, reliability, usability, 
+safety, cost, compatibility, resource, environmental, or other constraints. 
+ 
+Requirements should be sufficiently clear and, where reasonably possible, measurable and 
+testable. 
+ 
+Where numerical targets or thresholds are specified, students should provide an appropriate 
+rationale based on literature, technical specifications, calculations, preliminary 
+investigation, user requirements, experiments, or other reasonable evidence. 
+ 
+Where useful, requirement identifiers such as FR-01, FR-02, NFR-01, NFR-02, etc. should 
+be used consistently throughout the report. 
+ 
+The Final Report should demonstrate an appropriate relationship between: 
+Problem and Objectives → Literature / Existing Solutions → Derived 
+Requirements → Design → Implementation → Testing and Evaluation 
+ 
+
+===== PAGE 44/62 =====
+CCIT4080 PKPD – Project Guidelines – (6) Assessment Details – Project Final Report 
+ 
+44
+– Design, Methodology, and Implementation 
+This section should provide a technically detailed account of the solution developed, the methods 
+used to develop and evaluate it, and the final implementation. 
+ 
+Depending on the project, the section may be divided into the following subsections. 
+⚫ 
+Design 
+The Design should explain what the final system or solution was designed to do and 
+how its major components work together. 
+ 
+Depending on the nature of the project, appropriate content may include: 
+• overall system architecture; 
+• hardware and software subsystems; 
+• circuit design; 
+• mechanical or structural design; 
+• software architecture; 
+• algorithms and processing logic; 
+• databases and data structures; 
+• user-interface design; 
+• communication interfaces; 
+• control logic; 
+• workflow or state transitions; 
+• component selection;  
+• integration between subsystems; and 
+• etc. 
+ 
+Appropriate engineering representations should be used where applicable, such as: 
+• system block diagrams; 
+• circuit schematics; 
+• mechanical drawings; 
+• wiring diagrams; 
+• flowcharts; 
+• state diagrams; 
+• software architecture diagrams; 
+• sequence diagrams; 
+• interface diagrams; and 
+• other relevant technical figures. 
+ 
+Major design choices should be technically justified. Where reasonable alternatives were 
+considered, students should explain the relevant comparison and why the final approach 
+was selected. 
+ 
+The final design should be clearly linked to the project requirements established earlier in 
+the report. 
+ 
+ 
+ 
+
+===== PAGE 45/62 =====
+CCIT4080 PKPD – Project Guidelines – (6) Assessment Details – Project Final Report 
+ 
+45
+⚫ 
+Methodology 
+The Methodology should explain how the system or solution was developed, investigated, 
+verified, and evaluated. 
+ 
+Depending on the project, this may include: 
+• development or prototyping approach; 
+• experimental methodology; 
+• technical decision-making methods; 
+• data-collection procedures; 
+• calibration procedures; 
+• algorithm-development methods; 
+• component or approach-selection methods; 
+• integration strategy; 
+• verification methods; 
+• testing procedures; 
+• evaluation metrics; and 
+• acceptance or success criteria. 
+ 
+Where alternative methods were considered, students should briefly compare them and 
+justify the adopted approach. 
+ 
+The Methodology should not merely repeat the Design or list the technologies used. It 
+should explain the process and reasoning used to develop and evaluate the project. 
+ 
+⚫ 
+Implementation 
+The Implementation should document what was actually developed, constructed, 
+programmed, configured, integrated, and verified. 
+ 
+Students should clearly distinguish among: 
+• completed work; and 
+• planned or remaining work. 
+ 
+Depending on the project, appropriate evidence may include: 
+• prototype photographs; 
+• circuit and wiring records; 
+• mechanical fabrication; 
+• source code and software modules; 
+• interface screenshots; 
+• implemented algorithms; 
+• hardware-software integration; 
+• experimental setups; 
+• configuration records; 
+• measurement data; 
+• test logs; 
+• version-control records; and 
+• other relevant project artefacts. 
+ 
+ 
+
+===== PAGE 46/62 =====
+CCIT4080 PKPD – Project Guidelines – (6) Assessment Details – Project Final Report 
+ 
+46
+The Final Report should distinguish clearly between: 
+• features or functions successfully implemented; 
+• features only partially implemented; 
+• features removed or changed from the original plan; and 
+• features that could not be completed. 
+ 
+Where the final implementation differs from the original proposal or design, the changes 
+and reasons should be explained. 
+ 
+Significant technical problems encountered during implementation should also be 
+discussed, including investigation undertaken, solutions attempted, design modifications 
+made, and the resulting outcomes. 
+ 
+– Scheduling and Resources Allocation 
+Review the management of the project across the full two-semester period. 
+ 
+The Final Report should compare the original project plan with the actual project 
+development. 
+ 
+The schedule review should normally include: 
+⚫ 
+originally planned tasks and milestones; 
+⚫ 
+actual completion dates or status; 
+⚫ 
+significant delays or changes; 
+⚫ 
+causes of major differences; 
+⚫ 
+actions taken in response; 
+⚫ 
+changes in priorities or project scope; and 
+⚫ 
+overall effectiveness of the project schedule. 
+ 
+A planned-versus-actual schedule, revised Gantt chart, milestone table, or other suitable 
+representation should be provided. 
+ 
+The report should also review the actual use of project resources, including where applicable: 
+⚫ 
+division of responsibilities among group members; 
+⚫ 
+laboratory and equipment usage; 
+⚫ 
+hardware and materials; 
+⚫ 
+software and computing resources; 
+⚫ 
+APIs, cloud services, or external services; 
+⚫ 
+expenditure and budget; 
+⚫ 
+procurement; and 
+⚫ 
+other significant resources. 
+ 
+Actual expenditure should be compared with the original or revised budget where applicable. 
+ 
+The purpose of this section is not merely to reproduce the original schedule and resource plan, 
+but to evaluate how effectively the project was actually managed. 
+ 
+ 
+ 
+
+===== PAGE 47/62 =====
+CCIT4080 PKPD – Project Guidelines – (6) Assessment Details – Project Final Report 
+ 
+47
+– Testing, Evaluation, and Discussion 
+Testing and evaluation form a major part of the Final Report and should provide evidence for 
+determining whether the project objectives and requirements have been achieved. 
+ 
+⚫ 
+Testing 
+This section should provide a detailed description of the testing process used to validate the 
+project's solution. 
+ 
+Students should develop and execute appropriate test cases, experiments, measurements, or 
+other verification activities to evaluate the functionality and performance of the system or 
+solution. 
+ 
+For each significant test, the report should clearly identify, where applicable: 
+• the functionality, component, subsystem, requirement, or objective being tested; 
+• the test setup and conditions; 
+• the procedure used; 
+• the expected result or acceptance criterion; 
+• the actual result obtained; and 
+• whether the requirement or criterion was satisfied. 
+ 
+Testing should, where appropriate, include both component- or unit-level testing and 
+integrated system-level testing. The solution should also be evaluated under different 
+relevant scenarios or operating conditions rather than only under a single ideal condition. 
+ 
+Testing should be sufficiently systematic to support meaningful conclusions about the final 
+project. Results should be presented using appropriate: 
+• tables; 
+• graphs; 
+• measurements; 
+• screenshots; 
+• photographs; 
+• logs; 
+• statistical summaries; or 
+• other relevant evidence. 
+ 
+Successful tests alone should not be selectively reported where significant failures, 
+limitations, or unexpected results were also observed. 
+ 
+⚫ 
+Evaluation 
+After testing, students should evaluate the results obtained and determine the extent to 
+which the completed project has met its original objectives, requirements, specifications, 
+and success criteria. 
+ 
+The evaluation should compare actual results with the expected outcomes and identify, 
+where applicable: 
+
+===== PAGE 48/62 =====
+CCIT4080 PKPD – Project Guidelines – (6) Assessment Details – Project Final Report 
+ 
+48
+• requirements fully satisfied; 
+• requirements partially satisfied; 
+• requirements not satisfied; 
+• differences between expected and actual performance; 
+• limitations or failure cases identified during testing; 
+• limitations of the testing performed; 
+• reliability or consistency of the results; and 
+• factors affecting the validity or generalisability of the findings. 
+ 
+Where quantitative targets have been established, actual measured performance should be 
+compared with those targets. 
+ 
+The evaluation should also consider the overall effectiveness of the implemented solution 
+and whether the final project actually addresses the original problem as intended. 
+ 
+Students should distinguish between what is supported by evidence and what remains 
+uncertain or has not been adequately tested. Where appropriate, a requirements-to-
+test/result traceability table may be used to summarise whether individual requirements 
+were achieved. 
+ 
+The evaluation should distinguish between: 
+• what the evidence demonstrates; 
+• what can reasonably be inferred from the evidence; and 
+• what remains uncertain or has not been tested. 
+ 
+⚫ 
+Discussion 
+The Discussion should provide a critical analysis of the project's outcomes based on the 
+implementation, testing, and evaluation presented earlier in the report. 
+ 
+Students should discuss the strengths and weaknesses of the final solution and explain the 
+significance of the results obtained. 
+ 
+The discussion may include: 
+• reasons for successful or unsuccessful outcomes; 
+• strengths and weaknesses of the final solution; 
+• important engineering trade-offs; 
+• technical limitations; 
+• implementation difficulties and their impact; 
+• differences between expected and actual performance; 
+• implications of the results; 
+• lessons learned from significant technical decisions; 
+• limitations of the project scope or methodology; and 
+• improvements that could be made if further development were undertaken. 
+ 
+The Discussion should demonstrate critical reflection rather than simply restating the test 
+
+===== PAGE 49/62 =====
+CCIT4080 PKPD – Project Guidelines – (6) Assessment Details – Project Final Report 
+ 
+49
+results. Students should explain why particular outcomes occurred, what was learned from 
+them, and what could reasonably be improved if the project were developed further. 
+ 
+Any proposed improvements should arise logically from the evidence, limitations, or 
+lessons identified in the completed project. 
+ 
+– Conclusion and Recommendations 
+Provide an overall conclusion based on the completed project and the evidence presented in the 
+report. 
+ 
+The Conclusion should: 
+⚫ 
+summarise the problem addressed; 
+⚫ 
+summarise the solution developed; 
+⚫ 
+state the extent to which the original objectives were achieved; 
+⚫ 
+identify the most important project outcomes; 
+⚫ 
+recognise significant limitations or unachieved objectives; and 
+⚫ 
+provide an evidence-based overall judgement of the project. 
+ 
+The Conclusion should not introduce new technical results or evidence that have not already 
+been presented and discussed. 
+ 
+Where appropriate, recommendations may be provided regarding: 
+⚫ 
+design improvements; 
+⚫ 
+implementation changes; 
+⚫ 
+improved testing methods; 
+⚫ 
+deployment considerations; 
+⚫ 
+optimisation; 
+⚫ 
+alternative technical approaches; or 
+⚫ 
+other lessons arising from the project. 
+ 
+– Future Scope 
+Discuss reasonable opportunities for further development, improvement, or investigation 
+beyond the completed project. 
+ 
+Future work should arise logically from the limitations, unresolved issues, results, or 
+opportunities identified in the completed project, rather than simply listing additional desirable 
+features. Where appropriate, students may discuss: 
+⚫ 
+unresolved technical limitations; 
+⚫ 
+performance improvements; 
+⚫ 
+additional functionality; 
+⚫ 
+wider testing; 
+⚫ 
+improved hardware or software; 
+⚫ 
+alternative approaches; 
+⚫ 
+larger-scale deployment; 
+⚫ 
+further research; or 
+⚫ 
+application of the work in other contexts. 
+
+===== PAGE 50/62 =====
+CCIT4080 PKPD – Project Guidelines – (6) Assessment Details – Project Final Report 
+ 
+50
+Students should distinguish clearly between what was achieved in the current project and what 
+is proposed only as future work. 
+ 
+– Individual Progress 
+Provide separate subsections for each group member summarising their contribution to the 
+completed project. Each member's subsection should include: 
+⚫ 
+portrait photograph; 
+⚫ 
+full name and Student ID (SID); 
+⚫ 
+role or major responsibilities; 
+⚫ 
+significant tasks completed; 
+⚫ 
+concrete technical or project outputs produced; and 
+⚫ 
+contribution to the overall project outcome. 
+ 
+Descriptions should be sufficiently specific to demonstrate identifiable individual contribution 
+and should be consistent with other project evidence such as the Logbook, Peer Evaluation(s), 
+Individual Self-Reflection Report, and etc. 
+ 
+As this is the Final Report, the Individual Progress section should focus primarily on actual 
+completed contribution, rather than planned future tasks. 
+ 
+– References 
+Provide a complete list of all sources cited in the report using a consistent recognised academic 
+citation style. 
+ 
+APA and IEEE citation styles are preferred for this course.  
+ 
+Students should ensure that: 
+⚫ 
+every in-text citation has a corresponding reference; 
+⚫ 
+references listed are actually used in the report; 
+⚫ 
+external figures, tables, data, designs, technical specifications, software, APIs, libraries, or 
+other resources are appropriately attributed where required; and 
+⚫ 
+reference information is sufficiently complete and accurate. 
+ 
+– Appendices 
+Include supplementary materials that support the main report but would interrupt the flow if 
+included in the main body. Examples may include: 
+⚫ 
+additional test data; 
+⚫ 
+extended calculations; 
+⚫ 
+code excerpts; 
+⚫ 
+detailed technical specifications; 
+⚫ 
+additional diagrams; 
+⚫ 
+screenshots or logs; 
+⚫ 
+receipts or detailed cost records; and 
+⚫ 
+other supporting project evidence. 
+ 
+Appendices should be clearly labelled and referred to from the main body where relevant.  
+
+===== PAGE 51/62 =====
+CCIT4080 PKPD – Project Guidelines – (6) Assessment Details – Project Final Report 
+ 
+51
+Relationship with the Marking Scheme 
+The formal report sections above and the marking-scheme categories are not intended to 
+correspond one-to-one. 
+ 
+The marking scheme assesses the quality of relevant content and evidence wherever it is appropriately 
+presented in the report and, where applicable, in the completed project itself. The relationship between 
+the marking-scheme categories and the principal sources of evidence is generally as follows: 
+Marking-Scheme Category 
+Principal Evidence Normally Found In 
+Abstract 
+Abstract 
+Introduction 
+Introduction 
+Detailed Requirement Specifications 
+Primarily Literature Review / Project Requirements 
+Detailed Design Specifications 
+Primarily Design 
+Evaluation 
+Testing, Evaluation and Discussion 
+Conclusion 
+Conclusion and Recommendations 
+Appendices and References 
+References and Appendices, together with the appropriate use, citation, and 
+supporting documentation of sources and supplementary materials throughout 
+the report 
+Overall Impression 
+The report as a whole, including organisation, technical communication, 
+logical structure, formatting, figures and tables, consistency, referencing, and 
+professional presentation 
+Product 
+The actual completed prototype, system, solution, or other approved project 
+output, supported by evidence presented particularly in Implementation and 
+Testing, Evaluation and Discussion 
+ 
+In particular, Product is an assessment category rather than a required report section. Students 
+should not create a separate chapter entitled "Product" merely to match the marking scheme. 
+ 
+The Final Report contributes 20% of the overall course grade.  
+ 
+The corresponding assessment areas are: 
+Assessment Area 
+Weighting within the Final Report 
+Abstract 
+5% 
+Introduction 
+5% 
+Detailed Requirement Specifications 
+10% 
+Detailed Design Specifications 
+10% 
+Evaluation 
+20% 
+Conclusion 
+10% 
+Appendices and References 
+10% 
+Overall Impression 
+10% 
+Product 
+20% 
+Total 
+100% 
+ 
+Where an assessed element is materially missing or contains no meaningful relevant content, the 
+corresponding assessment category may be assessed within the Inadequate band. 
+ 
+
+===== PAGE 52/62 =====
+CCIT4080 PKPD – Project Guidelines – (6) Assessment Details – Project Oral Presentation 
+ 
+52
+Project Deliverable (35%) 
+The Project Deliverable represents the project's actual technical outcome and the supporting 
+materials required to demonstrate, explain, and document it. 
+ 
+The deliverable should demonstrate not only that a prototype, system, or solution has been produced, 
+but also the quality of its design and implementation, its functionality relative to the project objectives 
+and requirements, the development progress achieved throughout the project, and the contributions 
+made by individual group members. 
+ 
+Depending on the nature of the project, the deliverable may include a hardware prototype, software 
+application, integrated hardware-software system, experimental setup, or other approved technical 
+output. 
+ 
+In addition to the actual prototype or system, each group is required to provide: 
+– Project Demonstration Video(s); 
+– A2-size Project Presentation Poster; and 
+– other supporting materials or technical documentation where appropriate. 
+ 
+– Project Demonstration Video 
+The project video should be at least 5 minutes long and clearly demonstrate the completed 
+prototype or system. 
+ 
+The video should normally include: 
+⚫ 
+a brief introduction to the project and the problem being addressed; 
+⚫ 
+the purpose and major features of the prototype or system; 
+⚫ 
+an explanation of the main components or functions; 
+⚫ 
+step-by-step guidance showing how the prototype, device, or application is used; 
+⚫ 
+demonstration of the major functions of the system; 
+⚫ 
+demonstration under representative operating scenarios where appropriate; and 
+⚫ 
+relevant outcomes, limitations, or testing evidence where these assist in demonstrating the 
+performance of the system. 
+ 
+The demonstration should show the actual implemented system or prototype wherever 
+reasonably possible. Planned functions, simulated outputs, mock-ups, or incomplete features 
+should not be presented as completed functionality. 
+ 
+The purpose of the video is primarily to demonstrate and document the project deliverable. 
+It is therefore different from the longer Project Oral Presentation, which focuses on 
+communicating the complete project process, technical decisions, testing, evaluation, and 
+conclusions.A brief introduction to the prototype, explaining its purpose and key features. 
+ 
+ 
+ 
+ 
+ 
+
+===== PAGE 53/62 =====
+CCIT4080 PKPD – Project Guidelines – (6) Assessment Details – Project Oral Presentation 
+ 
+53
+– A2-size Project Presentation Poster 
+Each group should prepare an A2-size presentation poster that provides a concise and visually 
+effective summary of the project. 
+ 
+Depending on the nature of the project, the poster may include: 
+⚫ 
+project problem and objectives; 
+⚫ 
+proposed solution; 
+⚫ 
+system or solution architecture; 
+⚫ 
+important design features; 
+⚫ 
+methodology or development approach; 
+⚫ 
+prototype or implementation photographs; 
+⚫ 
+significant testing or evaluation results; 
+⚫ 
+major project outcomes; and 
+⚫ 
+key conclusions or limitations. 
+ 
+The poster should allow a reader to understand the main idea and outcome of the project quickly 
+without having to read the complete Final Report. 
+ 
+The poster should therefore emphasise clear visual communication, making appropriate use of 
+diagrams, figures, photographs, tables, and concise text rather than presenting large amounts of 
+continuous prose. 
+ 
+– Supporting Materials and Documentation 
+Where appropriate, groups should also provide supporting materials necessary to allow the 
+project to be understood, demonstrated, reproduced, operated, or evaluated. 
+ 
+Depending on the project, these may include: 
+⚫ 
+user or operating instructions; 
+⚫ 
+installation or setup instructions; 
+⚫ 
+circuit diagrams or wiring information; 
+⚫ 
+mechanical drawings; 
+⚫ 
+source code or executable software; 
+⚫ 
+README or configuration files; 
+⚫ 
+bills of materials; 
+⚫ 
+component specifications; 
+⚫ 
+test records; 
+⚫ 
+datasets or configuration information; and 
+⚫ 
+other relevant technical documentation. 
+ 
+The required supporting materials will depend on the nature and scope of the project. 
+ 
+ 
+ 
+
+===== PAGE 54/62 =====
+CCIT4080 PKPD – Project Guidelines – (6) Assessment Details – Project Oral Presentation 
+ 
+54
+– Functionality and Quality of the Final Product 
+The final prototype or solution should be evaluated against the project objectives, 
+requirements, specifications, and intended use established during the project. 
+ 
+A technically ambitious project is not automatically considered successful if its major functions 
+have not been implemented or demonstrated. Similarly, a comparatively focused project may 
+perform strongly where the design is appropriate, implementation is technically sound, 
+functionality is well demonstrated, and the resulting solution is thoroughly tested and evaluated. 
+ 
+Where some intended functions could not be completed, the group should identify these 
+limitations accurately rather than representing incomplete work as fully functional. 
+ 
+– Project Development and Progress 
+The Project Deliverable assessment considers not only the final state of the prototype, but also 
+the development work and progress demonstrated throughout the project. 
+ 
+Relevant evidence may include: 
+⚫ 
+progress demonstrated during project sessions; 
+⚫ 
+prototype-development records; 
+⚫ 
+design revisions; 
+⚫ 
+implementation evidence; 
+⚫ 
+testing records; 
+⚫ 
+technical problem-solving; 
+⚫ 
+project documentation; 
+⚫ 
+Logbook records; and 
+⚫ 
+other project artefacts. 
+ 
+Substantial project work completed only immediately before the final submission, with 
+little evidence of continual development, will negatively affect the relevant gradings. 
+ 
+– Individual Contribution 
+A substantial proportion of the Project Deliverable is assessed individually. Each student is 
+expected to demonstrate a fair, meaningful, and identifiable contribution to the development of 
+the project. 
+ 
+Individual assessment may consider: 
+⚫ 
+technical contribution to design and implementation; 
+⚫ 
+contribution to relevant project documentation; 
+⚫ 
+contribution to testing, troubleshooting, and project development; 
+⚫ 
+engagement and communication within the group; 
+⚫ 
+progress demonstrated during project sessions; 
+⚫ 
+Peer Evaluation(s); 
+⚫ 
+Individual Self-Reflection Report; 
+⚫ 
+Logbook and project records; 
+⚫ 
+source-code, document, or version histories where relevant; and 
+⚫ 
+other appropriate evidence of individual contribution. 
+
+===== PAGE 55/62 =====
+CCIT4080 PKPD – Project Guidelines – (6) Assessment Details – Project Oral Presentation 
+ 
+55
+Where work has been completed collaboratively, the assessment will consider the available 
+evidence concerning each member's contribution. 
+ 
+Students should not assume that all group members will automatically receive identical 
+individual marks. Where the available evidence indicates comparable levels of contribution, 
+similar individual marks may be awarded. 
+ 
+– Assessment Weighting 
+The Project Deliverable contributes 35% of the overall course grade. 
+ 
+The assessment is divided into: 
+Assessment Area 
+Weighting within the Course 
+Group-Based Assessment – First Examiner 
+10% 
+Group-Based Assessment – Second Examiner 
+5% 
+Individual Assessment 
+20% 
+Total 
+35% 
+ 
+The Group-Based Assessment considers the overall quality of the project as a collaborative 
+engineering outcome. The principal areas include: 
+⚫ 
+Design and Idea; 
+⚫ 
+Implementation, Project Progress, and the Final Product; and 
+⚫ 
+Project Video and Documentation. 
+ 
+The Individual Assessment considers each student's contribution to the project. The principal 
+areas include: 
+⚫ 
+Technical Contribution to Implementation; 
+⚫ 
+Contribution to Relevant Documentation; and 
+⚫ 
+Engagement and Communication in the Group. 
+ 
+Note: In general, if no significant differences are observed in in-class performance, Peer Evaluation(s), or Individual Self-
+Reflection Reports, students may expect similar individual marks to be awarded within the group. 
+ 
+
+===== PAGE 56/62 =====
+CCIT4080 PKPD – Project Guidelines – (6) Assessment Details – Project Oral Presentation 
+ 
+56
+Project Oral Presentation (15%) 
+Each group is required to prepare a self-recorded Project Oral Presentation of approximately 30–
+40 minutes. 
+ 
+The presentation should communicate the completed project to an engineering audience who may 
+have no prior knowledge of the project's development, including the second examiner. 
+ 
+The presentation should provide a coherent account of the project rather than merely describing the 
+final prototype. It should demonstrate the group's understanding of the problem, engineering 
+decisions, development process, implementation, testing, evaluation, and final outcomes. 
+ 
+– Presentation Content 
+The presentation should normally cover the major elements of the completed project, including: 
+⚫ 
+the problem or engineering need being addressed; 
+⚫ 
+project goals and objectives; 
+⚫ 
+important findings from the background investigation or Literature Review; 
+⚫ 
+major project requirements; 
+⚫ 
+proposed solution and system design; 
+⚫ 
+important technical decisions and their justification; 
+⚫ 
+methodology or development approach; 
+⚫ 
+implementation and project development; 
+⚫ 
+major difficulties encountered and how they were addressed; 
+⚫ 
+testing methodology and test cases; 
+⚫ 
+testing and evaluation results; 
+⚫ 
+strengths and limitations of the final solution; 
+⚫ 
+conclusions and major lessons learned; and 
+⚫ 
+appropriate future improvements or extensions. 
+ 
+The presentation should include a brief demonstration of the prototype or system, focusing 
+on the major functions and project outcomes. 
+ 
+Materials from the Project Deliverable, including demonstration footage, diagrams, photographs, 
+or testing evidence, may be reused where appropriate. 
+ 
+– Presentation Style and Materials 
+The presentation should be clear, concise, logically organised, and professionally presented. 
+ 
+Although some content will naturally overlap with the Project Final Report, students should not 
+simply read the Final Report or reproduce large sections of report text on presentation slides. 
+ 
+Presentation materials should support the oral explanation through appropriate use of: 
+⚫ 
+system and technical diagrams; 
+⚫ 
+figures and photographs; 
+⚫ 
+tables and graphs; 
+⚫ 
+test results; 
+⚫ 
+screenshots; 
+
+===== PAGE 57/62 =====
+CCIT4080 PKPD – Project Guidelines – (6) Assessment Details – Project Oral Presentation 
+ 
+57
+⚫ 
+demonstration footage; and 
+⚫ 
+concise explanatory text. 
+ 
+The presentation should focus on the most important aspects of the project and communicate 
+them at an appropriate technical level for an engineering audience. 
+ 
+– Participation of Group Members 
+All group members are expected to make a meaningful contribution to the recorded 
+presentation. 
+ 
+The division of presentation content does not necessarily need to be equal in duration, but the 
+allocation should reasonably reflect individual responsibilities, technical involvement, and the 
+overall presentation structure. 
+ 
+Each student should be clearly identifiable during their part of the presentation. 
+ 
+Individual presentation performance may consider: 
+⚫ 
+clarity and effectiveness of explanation; 
+⚫ 
+organisation and delivery; 
+⚫ 
+appropriate use of technical terminology; 
+⚫ 
+demonstrated understanding of the material being presented; 
+⚫ 
+ability to explain the student's own project work and contribution; and 
+⚫ 
+overall professionalism of presentation. 
+ 
+Students should demonstrate understanding rather than simply reading prepared text. 
+ 
+– Group and Individual Assessment 
+The Project Oral Presentation contains both group-based and individual assessment. 
+ 
+The group-based assessment considers the overall quality and effectiveness of the presentation, 
+including: 
+⚫ 
+selection and organisation of appropriate project content; 
+⚫ 
+communication of key material from the Final Report; 
+⚫ 
+demonstration of the prototype or system; 
+⚫ 
+quality and professionalism of presentation materials; 
+⚫ 
+coherence and consistency across different presenters; and 
+⚫ 
+overall effectiveness in communicating the completed project. 
+ 
+The individual assessment considers each student's own presentation performance and 
+contribution to communicating the project. 
+ 
+ 
+
+===== PAGE 58/62 =====
+CCIT4080 PKPD – Project Guidelines – (6) Assessment Details – Project Oral Presentation 
+ 
+58
+– Assessment Weighting 
+The Project Oral Presentation contributes 15% of the overall course grade. 
+ 
+The assessment is divided into: 
+Assessment Area 
+Weighting within the Course 
+Group-Based Assessment – First Examiner 
+5% 
+Group-Based Assessment – Second Examiner 
+5% 
+Individual Assessment 
+5% 
+Total 
+15% 
+ 
+Note: As with the project deliverable, if no significant differences are identified through performance observations, Peer 
+Evaluation(s), or Individual Self-Reflection Reports, students may expect similar individual marks across the group. 
+ 
+Note: The presentation should be concise, focusing on key points. While it may include elements similar to the Final 
+Report, it should be presented in a lively tone rather than simply reading out the Final Report. Materials from the Project 
+Deliverable may be reused in the recording where appropriate. 
+
+===== PAGE 59/62 =====
+CCIT4080 PKPD – Project Guidelines – (6) Assessment Details – Logbook 
+ 
+59
+Logbook (5%: 2.5% + 2.5%) 
+Each project group is required to maintain a Logbook throughout the entire two-semester project 
+period. 
+ 
+The Logbook serves as a chronological record of the development of the project and should provide 
+evidence of the group's activities, progress, discussions, decisions, problems encountered, and actions 
+taken. 
+ 
+The Logbook will be submitted at the end of each semester: 
+– Semester 1 Logbook – 2.5% 
+– Semester 2 Logbook – 2.5% 
+ 
+The Logbook should be maintained continuously throughout the project, rather than reconstructed 
+shortly before the submission deadline. 
+ 
+– Activities and Milestones 
+The Logbook should provide a chronological record of significant project activities and 
+milestones. 
+ 
+Entries may include: 
+⚫ 
+research and investigation; 
+⚫ 
+design work; 
+⚫ 
+component selection; 
+⚫ 
+programming or development; 
+⚫ 
+prototype construction; 
+⚫ 
+experimentation; 
+⚫ 
+integration; 
+⚫ 
+testing; 
+⚫ 
+troubleshooting; 
+⚫ 
+documentation; 
+⚫ 
+meetings; 
+⚫ 
+supervisor consultation; 
+⚫ 
+significant revisions; and 
+⚫ 
+other relevant project activities. 
+ 
+The Logbook should make it possible to understand how the project developed over time. 
+ 
+– Date 
+Each activity, meeting, milestone, or significant project event should be associated with an 
+appropriate date or period. 
+ 
+Entries should be sufficiently regular to provide a credible record of project development 
+throughout the semester. 
+ 
+ 
+ 
+
+===== PAGE 60/62 =====
+CCIT4080 PKPD – Project Guidelines – (6) Assessment Details – Logbook 
+ 
+60
+– Description of Work and Progress 
+Logbook entries should describe the work undertaken in sufficient detail. 
+ 
+Depending on the activity, the description may include: 
+⚫ 
+tasks completed; 
+⚫ 
+work in progress; 
+⚫ 
+findings or observations; 
+⚫ 
+technical difficulties encountered; 
+⚫ 
+troubleshooting performed; 
+⚫ 
+results obtained; 
+⚫ 
+changes made; 
+⚫ 
+unresolved problems; and 
+⚫ 
+planned follow-up actions. 
+ 
+Entries should describe actual project activity and outcomes, rather than consisting only of brief 
+statements such as "worked on coding" or "continued hardware development". 
+ 
+Where appropriate, entries may refer to supporting evidence such as photographs, screenshots, 
+diagrams, test results, source-code records, or other project artefacts. 
+ 
+– Meeting Agenda and Minutes 
+Relevant group meetings should be documented through appropriate meeting records. 
+ 
+Meeting records should normally include: 
+⚫ 
+meeting date; 
+⚫ 
+members present, where appropriate; 
+⚫ 
+major agenda items; 
+⚫ 
+important discussions; 
+⚫ 
+decisions made; 
+⚫ 
+tasks or action items assigned; 
+⚫ 
+responsible member(s); and 
+⚫ 
+expected follow-up or completion dates where relevant. 
+ 
+Records of supervisor consultation may also be included where appropriate. 
+ 
+– Key Decisions 
+Important decisions affecting the direction or development of the project should be recorded. 
+ 
+Examples may include: 
+⚫ 
+changes in project scope; 
+⚫ 
+selection between alternative technical approaches; 
+⚫ 
+component or technology choices; 
+⚫ 
+design modifications; 
+⚫ 
+changes to implementation; 
+⚫ 
+changes to testing methods; 
+⚫ 
+schedule revisions; 
+
+===== PAGE 61/62 =====
+CCIT4080 PKPD – Project Guidelines – (6) Assessment Details – Logbook 
+ 
+61
+⚫ 
+resource or budget decisions; and 
+⚫ 
+responses to significant technical problems. 
+ 
+Where appropriate, the Logbook should briefly record the reason or evidence supporting the 
+decision, rather than documenting only the final choice. 
+ 
+– Individual Responsibilities and Contribution 
+Although the Logbook is maintained as a group record, it should make individual responsibilities 
+and contributions reasonably identifiable where appropriate. 
+ 
+Tasks, action items, development activities, or project responsibilities should therefore identify 
+the relevant member(s) where this improves the accuracy and usefulness of the project record. 
+ 
+The Logbook may be considered together with other evidence when reviewing individual 
+contribution to the project. 
+ 
+– Quality and Authenticity of the Logbook 
+The purpose of the Logbook is to provide a credible record of the actual project-development 
+process. 
+ 
+A strong Logbook should demonstrate: 
+⚫ 
+regular and continuous project activity; 
+⚫ 
+meaningful descriptions of progress; 
+⚫ 
+clear records of important discussions and decisions; 
+⚫ 
+evidence of problems, troubleshooting, and subsequent action; 
+⚫ 
+appropriate tracking of tasks and milestones; and 
+⚫ 
+consistency with the project progress demonstrated elsewhere. 
+ 
+A Logbook consisting mainly of brief, repetitive, or retrospective entries provides limited 
+evidence of genuine project management and development. 
+ 
+– Assessment Weighting 
+The Logbook contributes 5% of the overall course grade. 
+Assessment Area 
+Weighting within the Course 
+Semester 1 Logbook 
+2.5% 
+Semester 2 Logbook 
+2.5% 
+Total 
+5% 
+ 
+Each semester's Logbook is assessed as a whole based principally on the quality and 
+completeness of its content, including: 
+⚫ 
+Activities and Milestones; 
+⚫ 
+Date; 
+⚫ 
+Description of tasks, findings, difficulties, and progress; 
+⚫ 
+Meeting Agenda and Minutes; and 
+⚫ 
+Key Decisions. 
+
+===== PAGE 62/62 =====
+CCIT4080 PKPD – Project Guidelines – (7) Academic Honesty 
+ 
+62
+(7) Academic Honesty 
+Students 
+are 
+advised 
+to 
+read 
+the 
+University's 
+guidelines 
+on 
+academic 
+honesty 
+(https://tl.hku.hk/plagiarism/). The definition of plagiarism includes (but is not limited to) copying 
+the whole or parts of any course assessment. Note that the College places very high importance on 
+academic integrity, and adopts a policy of zero tolerance on cheating and plagiarism. Any related 
+offence shall lead to disciplinary actions, including termination of studies.  
+ 
+The policy of the College and this course about the use of artificial intelligence tools is very clear: 
+­ 
+Plagiarism is not allowed at any time for any type of assessment. The passing off of work 
+produced by AI as one's own without acknowledgment is regarded as plagiarism and will be 
+penalized. Students must disclose the use of AI tools in their assessments and provide adequate 
+documentation of the usage process. Instructors reserve the right to question the assessments 
+submitted and may require students to explain their methodology, including showing detailed 
+steps in obtaining results from Gen-AI tools. 

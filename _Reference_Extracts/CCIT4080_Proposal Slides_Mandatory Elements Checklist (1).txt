@@ -1,0 +1,88 @@
+HKU SPACE Community College
+CCIT4080 Project on Knowledge Products Development (PKPD)
+Project Proposal Presentation Slides – Minimum Requirements Checklist
+Members:
+Note: This checklist ensures that all mandatory elements are present in your proposal slides. It does not assess quality.
+If all items are genuinely completed and confirmed, students may reasonably expect not to fall into the Inadequate band of the marking scheme. Higher grades, however, depend on the quality of content, clarity of explanation, and overall presentation skills.
+Title Slide
+Outline (Table of Contents) Slide
+Problem to Tackle
+Project Goals and Objectives
+Project Feasibility & Proposed Solutions
+Schedule
+Resources Allocation
+References 
+Presentation Mechanics (Overall Impression)
+
+=== TABLE 1 ===
+CL |  |   | Group |  |   | Project Title: | 
+
+=== TABLE 2 ===
+Name | SID
+ | 
+ | 
+ | 
+ | 
+ | 
+
+=== TABLE 3 ===
+# | Requirement | Yes (☑)
+1 | College name appears exactly as “HKU SPACE Community College”. | ☐
+2 | Programme name appears exactly as “Associate of Engineering Programme”. | ☐
+3 | Course code and title are correct (“CCIT4080 – Project on Knowledge Products Development”). | ☐
+4 | Class number (e.g. CL01) and Group number are shown. | ☐
+5 | Project title is clear, accurate, and matches the approved topic. | ☐
+6 | Full names and Student IDs of all group members are included. | ☐
+7 | Supervisor’s name is shown.  | ☐
+8 | Presentation date is included and correct. | ☐
+
+=== TABLE 4 ===
+# | Requirement | Yes (☑)
+1 | An Outline/Agenda slide is included (lists the main sections in order). | ☐
+2 | Section title slides (or clear headers) appear before each major section. | ☐
+
+=== TABLE 5 ===
+# | Requirement | Yes (☑)
+1 | At least one slide defines the real-world problem addressed. | ☐
+2 | The problem slide(s) show at least one supporting reference (news/tech paper/industry report/academic). | ☐
+
+=== TABLE 6 ===
+# | Requirement | Yes (☑)
+1 | A slide lists specific goals. | ☐
+2 | Measurable objectives are stated. | ☐
+3 | At least one evaluation method is shown (e.g., test cases, metrics, validation criteria). | ☐
+
+=== TABLE 7 ===
+# | Requirement | Yes (☑)
+1 | A slide discusses feasibility (technical viability, resources, budget, time). | ☐
+2 | Proposed solution(s) described. | ☐
+3 | Each solution is linked back to the stated problem/goal. | ☐
+
+=== TABLE 8 ===
+# | Requirement | Yes (☑)
+1 | A timeline slide is included. | ☐
+2 | Timeline covers start of Semester 1 → late April final deadline. | ☐
+3 | Milestones/deliverables named with approximate dates. | ☐
+4 | Risks/contingencies noted in schedule. | ☐
+
+=== TABLE 9 ===
+# | Requirement | Yes (☑)
+1 | Roles & responsibilities of members listed. | ☐
+2 | Required tools/equipment/materials listed. | ☐
+3 | Any budget/financial notes included (if applicable). | ☐
+
+=== TABLE 10 ===
+# | Requirement | Yes (☑)
+1 | References slide is included at the end. (If no appendix page(s).) | ☐
+2 | In-slide citations (e.g., [1] or (Author, Year)) appear wherever external facts/figures are used. | ☐
+3 | A consistent citation style (APA or IEEE preferred for this course) is used. | ☐
+4 | All figures/tables/equations have a caption and source/credit if not original. | ☐
+5 | If any AI tools were used to draft content or visuals, a brief disclosure slide/footnote is included (as required by College policy). | ☐
+
+=== TABLE 11 ===
+# | Requirement | Yes (☑)
+1 | Slide numbers appear (footer or corner) on all slides (title slide optional). | ☐
+2 | Optional footer shows course code + group (helps navigation during Q&A). | ☐
+3 | Slides are readable (sufficient font size/contrast; no walls of text). | ☐
+4 | Slide order follows the required structure: Title → Outline → Problem → Goals → Feasibility & Solutions → Schedule → Resources → References. / (Unless the instructor has given specific approval for an alternative structure.) | ☐
+5 | Speaking roles are assigned for all members. Equal time is not required, but each member must have a role (e.g., self-introduction, handling one section, or assisting with technical operation such as advancing slides) | ☐

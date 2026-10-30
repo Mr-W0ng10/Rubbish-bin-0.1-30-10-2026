@@ -1,0 +1,1125 @@
+
+===== PAGE 1/20 =====
+ 
+Page 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Associate of Engineering 
+CCIT4080 Project on Knowledge Products Development 
+ 
+Student Supplementary Resource Guide (2026/27) 
+Free and Educational Tools for Project Development 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AI-Generated Supplementary Document 
+Information and links reviewed: 31 August 2026 
+
+===== PAGE 2/20 =====
+CCIT4080 - Optional Project Resource Guide  |  2026/27 
+Page 2 
+About This Guide 
+This guide provides a curated list of optional external resources that students may explore when 
+planning, designing, implementing, testing, documenting, or presenting a CCIT4080 project. The 
+resources are suggestions only. A group should choose tools because they suit the engineering 
+problem, not because they appear in this guide. 
+ 
+CCIT4080 projects may be hardware-focused, software-focused, integrated hardware-software 
+systems, simulation-oriented, or research-informed development projects. A functional prototype 
+remains the central goal, so the most useful resource will depend on the project scope and the 
+evidence the group needs to produce. 
+ 
+AI-generation notice 
+This document was generated entirely using generative AI and received only limited manual 
+checking for obvious errors, duplication, course relevance, and readability. Service names, 
+eligibility requirements, quotas, interfaces, licence conditions, and free-tier limits can change. 
+Students should always verify the current information on the official provider website before 
+relying on a service. 
+ 
+GitHub Student Developer Pack as the starting point 
+The GitHub Student Developer Pack is included as the first resource in this guide because it 
+provides one convenient gateway to many student benefits. Individual services already offered 
+through the Pack - for example, Azure, JetBrains, Notion, MongoDB, Arduino, Deepnote, Heroku 
+and other Pack partners - are generally not duplicated as separate entries below. The remaining 
+resources are intended to complement the Pack.  GitHub Student Developer Pack 
+ 
+Before signing up 
+⚫ 
+Use an official provider website. Avoid unofficial download pages or third-party licence 
+sellers. 
+⚫ 
+Prepare your College student email and proof of current student status when an education plan 
+requires verification. 
+⚫ 
+Read the educational-use, non-commercial-use, public-project, storage, quota, and renewal 
+conditions before starting important project work. 
+⚫ 
+Do not enter payment-card details or upgrade to a paid plan unless the group deliberately 
+decides that a paid service is necessary. 
+⚫ 
+Do not upload confidential, personal, copyrighted, or sensitive project data to an external 
+service without considering privacy and licence implications. 
+⚫ 
+When an AI tool or AI-generated output is used in assessed work, follow the current 
+CCIT4080 instructions on declaration, documentation, and academic honesty. 
+ 
+ 
+
+===== PAGE 3/20 =====
+CCIT4080 - Optional Project Resource Guide  |  2026/27 
+Page 3 
+Quick Start - Which Resources Should I Look At? 
+You do not need to register for everything. Start with the type of work your group actually needs to 
+complete. 
+ 
+PACK 
+1 
+GitHub Student Developer Pack 
+One verified student account can unlock a broad set of developer, cloud, AI, learning, 
+testing, security and infrastructure offers. 
+ 
+2 
+Electronics, PCB & Embedded Systems 
+Altium Student Lab, KiCad, EasyEDA, Wokwi, LTspice, and Ansys Electronics Desktop 
+Student. 
+ 
+3 
+CAD, Mechanical Design & Engineering Simulation 
+Autodesk Education, Onshape, PTC Creo, and Siemens Solid Edge. 
+ 
+4 
+UI/UX, System Design & Collaboration 
+Figma for Education, Visual Paradigm Community Edition, Miro Education, Unity 
+Student Plan. 
+ 
+5 
+Web, Backend, Cloud, AI & Data Work 
+Firebase Spark, Supabase Free, Cloudflare Pages / Workers, Google Colab, MATLAB 
+Online Basic, AWS Educate and IBM SkillsBuild for University Students. 
+ 
+Choose selectively 
+Using more tools does not make a project better. A smaller, well-justified toolchain that the 
+group understands, tests, documents, and can explain is usually preferable to a large collection of 
+services. 
+
+===== PAGE 4/20 =====
+CCIT4080 - Optional Project Resource Guide  |  GitHub Student Developer Pack 
+Page 4 
+1. GitHub Student Developer Pack 
+A broad verified-student bundle covering development, cloud, AI, infrastructure, testing, security, 
+learning and related services. It is a useful first place to check before selecting individual project 
+tools. 
+ 
+1. GitHub Student Developer Pack 
+Link 
+https://education.github.com/pack 
+What to prepare 
+Create or use a GitHub account; prepare your current College student email 
+and evidence of current enrolment or student status. GitHub Education may 
+request additional verification information or documents. Keep your 
+account name and student records reasonably consistent to reduce 
+verification problems. 
+ 
+What you can find 
+there 
+A large collection of student benefits centred on software development and 
+related technical work. The current Pack includes GitHub Pro and GitHub 
+Copilot Student, Codespaces, cloud and hosting benefits, professional 
+IDEs, domains, databases, learning platforms, testing/monitoring tools, 
+security tools, IoT services and other partner offers. The exact partners, 
+quotas and durations can change over time. 
+ 
+Suitable CCIT4080 
+project types 
+Potentially useful for almost any software-intensive CCIT4080 project: 
+web/mobile applications, AI/data projects, cloud backends, IoT and 
+embedded systems, collaborative coding, source control, deployment, 
+automated testing and technical documentation. Hardware-focused groups 
+can still use GitHub repositories for firmware, PCB files, documentation, 
+issues and version history. 
+ 
+Free-access note 
+GitHub Student Developer Pack eligibility must be verified and 
+periodically renewed. Each partner benefit has its own activation steps, 
+duration, quotas and licence terms; some require a separate account. 
+Students should read the current Pack page and each provider's conditions 
+before depending on a benefit for a project. 
+ 
+ 
+Selected benefits described next 
+The following 1A-1H entries are summaries of high-value services inside the GitHub Student 
+Developer Pack. Students still activate each benefit through the Pack and must follow the 
+individual provider terms. 
+ 
+ 
+
+===== PAGE 5/20 =====
+CCIT4080 - Optional Project Resource Guide  |  GitHub Student Developer Pack 
+Page 5 
+1A. GitHub Pro, GitHub Copilot Student and GitHub Codespaces 
+Link 
+GitHub Student Developer Pack 
+What to prepare 
+A verified GitHub Education student account. Keep the College email and 
+current proof of enrolment available for renewal or re-verification. 
+ 
+What you can find 
+there 
+GitHub Pro for source control and collaboration; GitHub Copilot Student 
+for AI-assisted coding; and Codespaces for cloud-hosted development 
+environments. Current AI-credit and usage allowances can change. 
+ 
+Suitable CCIT4080 
+project types 
+Almost any software, AI, web, mobile, IoT or embedded project requiring 
+version control, issue tracking, collaborative coding, code review, cloud 
+development or technical documentation. 
+ 
+Free-access note 
+These are Pack benefits, not separate permanent licences. Review current 
+Copilot, Codespaces and acceptable-use limits, and disclose AI assistance 
+in assessed work as required. 
+ 
+ 
+1B. Microsoft Azure 
+Link 
+Activate through the GitHub Student Developer Pack 
+What to prepare 
+A verified GitHub Student Developer Pack account and a Microsoft 
+account. The current Pack describes the Azure offer for students aged 18 or 
+above; follow the provider verification steps. 
+ 
+What you can find 
+there 
+Access to selected Azure cloud services together with the student credit 
+described on the current Pack page. Services can include app hosting, 
+functions, databases, storage, virtual machines, monitoring and AI-related 
+services. 
+ 
+Suitable CCIT4080 
+project types 
+Cloud 
+backends, 
+APIs, 
+web/mobile 
+applications, 
+databases, 
+IoT 
+dashboards, serverless functions, AI services and projects requiring 
+temporary cloud computing or public deployment. 
+ 
+Free-access note 
+Credit, service quotas, eligible regions and expiry conditions apply. 
+Monitor usage and do not enable paid resources unless the group 
+deliberately accepts the billing risk. 
+ 
+ 
+ 
+ 
+
+===== PAGE 6/20 =====
+CCIT4080 - Optional Project Resource Guide  |  GitHub Student Developer Pack 
+Page 6 
+1C. JetBrains 
+Link 
+Activate through the GitHub Student Developer Pack 
+What to prepare 
+A verified GitHub Student Developer Pack account and a JetBrains 
+account. The student entitlement normally requires periodic renewal while 
+the user remains eligible. 
+ 
+What you can find 
+there 
+Professional desktop development environments such as IntelliJ IDEA, 
+PyCharm, CLion, WebStorm, Rider, DataGrip and related JetBrains tools, 
+depending on the current education offer. 
+ 
+Suitable CCIT4080 
+project types 
+Python, Java, C/C++, web, .NET, database and cross-platform software 
+projects where code navigation, debugging, testing and professional IDE 
+features are useful. 
+ 
+Free-access note 
+The licence is for educational use and is renewable subject to eligibility. 
+Check the current non-commercial and graduation/expiry conditions before 
+relying on it after the course. 
+ 
+ 
+1D. Notion 
+Link 
+Activate through the GitHub Student Developer Pack 
+What to prepare 
+A verified GitHub Student Developer Pack account and a Notion account. 
+Use a College email where practical and review the workspace-sharing 
+settings before adding group content. 
+ 
+What you can find 
+there 
+The education/Plus-style workspace benefit described by the Pack, with 
+project pages, databases, task tracking, shared notes, longer history and 
+additional AI responses under the current offer. 
+ 
+Suitable CCIT4080 
+project types 
+Any group needing a shared workspace for requirements, meeting notes, 
+task allocation, risk registers, design decisions, test records, references or a 
+supplementary project log. 
+ 
+Free-access note 
+Notion is optional and does not replace required SOUL submissions or the 
+formal Logbook. AI-generated content must be checked, documented and 
+declared where required. 
+ 
+ 
+ 
+ 
+
+===== PAGE 7/20 =====
+CCIT4080 - Optional Project Resource Guide  |  GitHub Student Developer Pack 
+Page 7 
+1E. MongoDB 
+Link 
+Activate through the GitHub Student Developer Pack 
+What to prepare 
+A verified GitHub Student Developer Pack account and a MongoDB 
+account. Plan the collection structure, access controls, region and 
+backup/export approach before storing project data. 
+ 
+What you can find 
+there 
+The current Pack describes MongoDB Atlas credit, MongoDB Compass, 
+MongoDB University learning resources and a certification benefit. Atlas 
+provides a managed document database in the cloud. 
+ 
+Suitable CCIT4080 
+project types 
+Web/mobile applications, IoT data stores, event logs, content systems, 
+dashboards and prototypes that benefit from a document-oriented database 
+rather than a relational schema. 
+ 
+Free-access note 
+Pack credit is limited and can expire. Track consumption, protect 
+credentials, avoid personal/sensitive data, and keep exportable backups so 
+the project can continue after the credit ends. 
+ 
+ 
+1F. Arduino Cloud 
+Link 
+Activate through the GitHub Student Developer Pack 
+What to prepare 
+A verified GitHub Student Developer Pack account, an Arduino account 
+and compatible hardware for physical deployment. Browser/device-agent 
+installation may be required. 
+ 
+What you can find 
+there 
+The current Pack lists time-limited Arduino Cloud access and selected 
+hardware 
+discounts. 
+Arduino 
+Cloud 
+supports 
+connected 
+Things, 
+dashboards, variables, remote monitoring and IoT-oriented workflows. 
+ 
+Suitable CCIT4080 
+project types 
+Arduino-based IoT devices, remote sensor monitoring, cloud dashboards, 
+simple device control and prototypes that need a managed connection 
+between hardware and a browser/mobile interface. 
+ 
+Free-access note 
+The Pack offer is time-limited and does not provide all hardware free of 
+charge. Check supported boards, cloud quotas and what happens when the 
+promotional period ends. 
+ 
+ 
+ 
+ 
+
+===== PAGE 8/20 =====
+CCIT4080 - Optional Project Resource Guide  |  GitHub Student Developer Pack 
+Page 8 
+1G. Deepnote 
+Link 
+Activate through the GitHub Student Developer Pack 
+What to prepare 
+A verified GitHub Student Developer Pack account and a Deepnote 
+account. Decide what data can be uploaded to an external notebook service 
+and keep local/Git backups. 
+ 
+What you can find 
+there 
+A collaborative, Jupyter-compatible cloud notebook environment. The 
+current Pack describes access to the Deepnote Team plan with team 
+projects, basic cloud machines, revision history and selected integrations. 
+ 
+Suitable CCIT4080 
+project types 
+Collaborative AI/ML, data analysis, signal processing, exploratory 
+research, database-connected notebooks and groups that need shared 
+executable notebooks rather than individual local files. 
+ 
+Free-access note 
+Cloud-machine, storage, history and integration limits can change. Export 
+notebooks and important data regularly; do not treat the service as the only 
+project archive. 
+ 
+ 
+1H. Heroku 
+Link 
+Activate through the GitHub Student Developer Pack 
+What to prepare 
+A verified GitHub Student Developer Pack account and a Heroku account. 
+Read the current billing/credit activation steps before deploying 
+applications or add-ons. 
+ 
+What you can find 
+there 
+A managed platform for deploying and operating web applications, APIs 
+and background processes. The current Pack lists a monthly student credit 
+for a limited period. 
+ 
+Suitable CCIT4080 
+project types 
+Flask, Django, Node.js and other web/API prototypes; demonstration 
+backends; scheduled jobs; and projects needing a simple public deployment 
+workflow. 
+ 
+Free-access note 
+The Pack currently states a fixed monthly credit for 24 months. Services 
+above the credit can incur charges, so monitor usage and remove unneeded 
+deployments after assessment. 
+ 
+ 
+
+===== PAGE 9/20 =====
+CCIT4080 - Optional Project Resource Guide  |  Electronics, PCB & Embedded Systems 
+Page 9 
+2. Electronics, PCB & Embedded Systems 
+Resources for circuit design, PCB development, electronic simulation, microcontroller prototyping, 
+RF/electromagnetic work, and embedded-system development. 
+ 
+2. Altium Student Lab 
+Link 
+https://www.altium.com/education/students 
+What to prepare 
+Academic email address. If automatic verification is unavailable, be ready 
+to provide a valid student card and/or current-semester enrolment proof. A 
+compatible Windows PC is normally required for Altium Designer. 
+ 
+What you can find 
+there 
+Professional schematic capture and PCB design using Altium Designer, 
+together with Altium 365 collaboration, component libraries, PCB learning 
+materials, and student-oriented training/certification resources. 
+ 
+Suitable CCIT4080 
+project types 
+Hardware-centric projects requiring a custom PCB; embedded/IoT devices; 
+sensor interfaces; power/control boards; mixed hardware-software 
+prototypes where a professional PCB workflow is useful. 
+ 
+Free-access note 
+The student licence is for educational use and is normally renewable while 
+the user remains eligible. Verify the current licence conditions before use. 
+ 
+ 
+3. KiCad 
+Link 
+https://www.kicad.org/ 
+What to prepare 
+A Windows, macOS, or Linux computer. No student email or student 
+verification is required. 
+ 
+What you can find 
+there 
+Open-source electronic design automation (EDA) software for schematic 
+capture, PCB layout, Gerber/manufacturing outputs, 3D PCB viewing, and 
+integrated circuit simulation workflows. 
+ 
+Suitable CCIT4080 
+project types 
+Custom PCB projects, microcontroller boards, sensor/actuator interfaces, 
+analog/digital circuits, power electronics prototypes, and groups that prefer 
+a fully free local toolchain. 
+ 
+Free-access note 
+Free and open source. It is a strong choice when the group wants to avoid 
+an education-only commercial licence. 
+ 
+ 
+ 
+ 
+
+===== PAGE 10/20 =====
+CCIT4080 - Optional Project Resource Guide  |  Electronics, PCB & Embedded Systems 
+Page 10 
+4. EasyEDA 
+Link 
+https://easyeda.com/page/pricing 
+What to prepare 
+A web browser or EasyEDA desktop client. Create a free account if you 
+want to save, synchronise, or share projects in the cloud. No student 
+verification is required for the free core plan. 
+ 
+What you can find 
+there 
+Browser/desktop schematic and PCB design environment with simulation 
+support, PCB layout, component libraries, and manufacturing-output tools. 
+It is closely integrated with common PCB prototyping workflows. 
+ 
+Suitable CCIT4080 
+project types 
+Entry-level 
+PCB 
+and 
+electronics 
+projects, 
+IoT 
+devices, 
+small 
+sensor/controller boards, rapid PCB prototyping, and groups that want a 
+browser-based EDA workflow. 
+ 
+Free-access note 
+The core editor has a free plan. Check current storage, cloud, collaboration, 
+and education-feature limits before depending on them. 
+ 
+ 
+5. Wokwi 
+Link 
+https://wokwi.com/pricing 
+What to prepare 
+A modern web browser. Create an account to save/share projects. Free 
+Community projects would be treated as public unless the current plan 
+states otherwise. 
+ 
+What you can find 
+there 
+Online simulation environment for Arduino, ESP32, Raspberry Pi Pico and 
+other 
+embedded 
+platforms. 
+Students 
+can 
+test 
+firmware, 
+virtual 
+sensors/displays, wiring logic, and some network-connected behaviour 
+before physical hardware is complete. 
+ 
+Suitable CCIT4080 
+project types 
+Arduino/ESP32/Pico projects; embedded firmware; IoT proof-of-concepts; 
+sensor/actuator logic; early-stage prototyping when hardware is not yet 
+available or when repeatable simulation is useful. 
+ 
+Free-access note 
+The no-cost Community plan is best for public/open projects. Private or 
+advanced features require a paid plan. 
+ 
+ 
+ 
+ 
+
+===== PAGE 11/20 =====
+CCIT4080 - Optional Project Resource Guide  |  Electronics, PCB & Embedded Systems 
+Page 11 
+6. LTspice 
+Link 
+https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-
+simulator.html 
+What to prepare 
+A compatible Windows or macOS computer. No student account or 
+education verification is normally required. 
+ 
+What you can find 
+there 
+Analog Devices' free SPICE simulator with schematic capture and 
+waveform analysis. It is widely useful for analysing analog, power, filter, 
+amplifier, 
+switching, 
+and 
+mixed-signal 
+circuit 
+behaviour 
+before 
+construction. 
+ 
+Suitable CCIT4080 
+project types 
+Analog electronics, power supplies, amplifiers, filters, sensor front-ends, 
+switching circuits, signal-conditioning projects, and any project that needs 
+circuit-level simulation evidence. 
+ 
+Free-access note 
+Free software. Simulation models and real hardware can differ, so 
+measured prototype results should still be used for final validation. 
+ 
+ 
+7. Ansys Electronics Desktop Student 
+Link 
+https://www.ansys.com/academic/students/ansys-electronics-desktop-
+student 
+What to prepare 
+A compatible Windows PC with sufficient RAM/storage and administrator 
+rights for installation. Internet access is needed for the download. Student 
+software is intended for educational use. 
+ 
+What you can find 
+there 
+Student edition of Ansys Electronics Desktop with tools such as HFSS, 
+Maxwell, Q3D Extractor, Icepak, Twin Builder and Circuit for 
+electromagnetic, RF, antenna, electrical-machine, PCB/interconnect, circuit 
+and thermal studies. 
+ 
+Suitable CCIT4080 
+project types 
+RF/antenna projects, electromagnetic sensing, motors/actuators, magnetic 
+systems, high-frequency interconnects, electronics thermal analysis, and 
+simulation-heavy electrical-engineering projects. 
+ 
+Free-access note 
+Student editions have model/problem-size and licensing limits. Check the 
+current Ansys Student product restrictions before choosing a project scope. 
+ 
+ 
+
+===== PAGE 12/20 =====
+CCIT4080 - Optional Project Resource Guide  |  CAD, Mechanical Design & Engineering Simulation 
+Page 12 
+3. CAD, Mechanical Design & Engineering Simulation 
+Resources for enclosure design, mechanical assemblies, 3D-printable parts, structural/thermal/flow 
+analysis, product design, and integrated engineering prototypes. 
+ 
+8. Autodesk Education 
+Link 
+https://www.autodesk.com/education/edu-software/overview 
+What to prepare 
+An Autodesk account, current student status, school details, and proof of 
+eligibility if requested by the verification process. Use your institutional 
+email where possible. 
+ 
+What you can find 
+there 
+Educational access to Autodesk professional software. Depending on 
+current availability, students can use products such as AutoCAD, Fusion 
+and Inventor for CAD, mechanical design, modelling, assemblies, 
+fabrication preparation and related engineering work. 
+ 
+Suitable CCIT4080 
+project types 
+Mechanical/electromechanical 
+prototypes, enclosures, 
+robot 
+frames, 
+fixtures, 3D-printed parts, product-design projects, and hardware projects 
+requiring clear engineering drawings or CAD models. 
+ 
+Free-access note 
+Education access is normally time-limited and renewable while eligible, 
+and is restricted to educational purposes. Verify the exact products and 
+conditions shown in your account. 
+ 
+ 
+9. Onshape Student Plan 
+Link 
+https://www.onshape.com/en/education/plans 
+What to prepare 
+Create an Onshape account and apply under the Student Plan. Be ready to 
+confirm current student status; use your institutional email where possible. 
+A modern browser is sufficient for normal use. 
+ 
+What you can find 
+there 
+Professional cloud CAD that runs in a web browser, with parametric part 
+design, assemblies, drawings and collaboration. It is convenient when 
+group members need to work on the same design without managing 
+desktop CAD files manually. 
+ 
+Suitable CCIT4080 
+project types 
+Mechanical design, robot/device enclosures, 3D printing, assemblies, 
+fixtures, product-design projects, and cross-device/group collaboration on 
+CAD models. 
+ 
+Free-access note 
+Education/student plans are for eligible academic users. Check current 
+document privacy, export, simulation, and renewal conditions. 
+ 
+ 
+ 
+
+===== PAGE 13/20 =====
+CCIT4080 - Optional Project Resource Guide  |  CAD, Mechanical Design & Engineering Simulation 
+Page 13 
+10. PTC Creo - Education 
+Link 
+https://www.ptc.com/en/education/free-software 
+What to prepare 
+A PTC account and current student/academic status. Use a school email if 
+available. A compatible computer is required for the Creo installation. 
+ 
+What you can find 
+there 
+PTC provides Creo education access for college/university learners. Creo 
+supports professional parametric 3D CAD, assemblies, drawings and 
+product-engineering workflows. 
+ 
+Suitable CCIT4080 
+project types 
+Mechanical/product-design projects, complex assemblies, enclosure/chassis 
+design, mechanisms, fixtures, and engineering projects where professional 
+CAD practice is part of the learning goal. 
+ 
+Free-access note 
+Use is subject to PTC education licensing. Verify supported versions, 
+hardware requirements, file compatibility and current eligibility. 
+ 
+ 
+11. Siemens Solid Edge Student Edition 
+Link 
+https://solidedge.siemens.com/en/solutions/users/students/ 
+What to prepare 
+An email/Siemens account, current student or active-learner status, and a 
+compatible Windows computer. 
+ 
+What you can find 
+there 
+Student edition of Siemens Solid Edge for professional 3D CAD and 
+engineering design. Siemens also provides related student learning 
+resources and, separately, student access to selected CAM learning tools. 
+ 
+Suitable CCIT4080 
+project types 
+Mechanical 
+design, 
+assemblies, 
+manufacturing-oriented 
+projects, 
+enclosures, mechanisms, 3D-printable parts, and projects that may benefit 
+from a CAD-to-manufacturing workflow. 
+ 
+Free-access note 
+Student-edition files and drawings can have compatibility/watermark 
+restrictions relative to commercial Solid Edge. Check these conditions 
+before choosing it as the group's long-term file format. 
+ 
+ 
+ 
+
+===== PAGE 14/20 =====
+CCIT4080 - Optional Project Resource Guide  |  UI/UX, System Design & Interactive Development 
+Page 14 
+4. UI/UX, System Design, Collaboration & Interactive Development 
+Resources for interface prototyping, system/requirements diagrams, group brainstorming, process 
+mapping, and interactive 3D application development. 
+ 
+12. Figma for Education 
+Link 
+https://www.figma.com/education/higher-education/ 
+What to prepare 
+A Figma account, student email, and higher-education verification. Follow 
+the current Figma education eligibility process. 
+ 
+What you can find 
+there 
+Professional UI/UX design and collaborative prototyping. Students can 
+build app/web mock-ups, design systems, clickable prototypes, interface 
+flows and shared design artefacts before implementation. 
+ 
+Suitable CCIT4080 
+project types 
+Mobile 
+apps, 
+web 
+applications, 
+dashboards, 
+accessibility-focused 
+interfaces, touchscreen/embedded UI, human-computer interaction projects, 
+and any project that benefits from early user-interface testing. 
+ 
+Free-access note 
+Education entitlements and AI/Dev Mode allowances can change. Verify 
+the current plan features and any AI-use conditions. 
+ 
+ 
+13. Visual Paradigm Community Edition 
+Link 
+https://www.visual-paradigm.com/editions/community/ 
+What to prepare 
+Download/install the Community Edition. No student verification is 
+required. Use it only within the current non-commercial/community licence 
+conditions. 
+ 
+What you can find 
+there 
+Modelling and diagramming environment supporting UML, use-case and 
+class diagrams, ERD/database diagrams, flowcharts, requirement-related 
+diagrams, network/system diagrams and other software/system-design 
+artefacts. 
+ 
+Suitable CCIT4080 
+project types 
+Software systems, web/mobile apps, database-backed projects, IoT 
+architectures, system engineering, requirement modelling, workflow/state 
+modelling, and projects needing professional diagrams in reports. 
+ 
+Free-access note 
+Community Edition is free for non-commercial use including education, but 
+some export/advanced functions can be limited or watermarked. Check 
+current edition differences. 
+ 
+ 
+ 
+ 
+
+===== PAGE 15/20 =====
+CCIT4080 - Optional Project Resource Guide  |  UI/UX, System Design & Interactive Development 
+Page 15 
+14. Miro Education 
+Link 
+https://help.miro.com/hc/en-us/articles/360017730473-Education-plan 
+What to prepare 
+A Miro account and evidence of current student/education status for the 
+application. Keep a copy of suitable proof in case the provider requests it. 
+ 
+What you can find 
+there 
+Collaborative online whiteboard with private boards, brainstorming, 
+diagrams, voting, timers and visual project-planning tools. It is useful for 
+turning meetings into visible decisions, flows and action items. 
+ 
+Suitable CCIT4080 
+project types 
+Any team project: brainstorming, requirements discovery, user journeys, 
+architecture planning, risk analysis, meeting facilitation, design reviews, 
+test-planning workshops and group coordination. 
+ 
+Free-access note 
+Student education plans are normally time-limited and team-size limits 
+apply. Verify current duration and collaboration limits before relying on it 
+for the full project. 
+ 
+ 
+15. Unity Student Plan 
+Link 
+https://unity.com/products/unity-student 
+What to prepare 
+A Unity ID, an email address, and student verification through the current 
+eligibility process (such as SheerID). Have proof of enrolment ready if 
+requested. A capable Windows/macOS computer is recommended. 
+ 
+What you can find 
+there 
+Student access to the Unity Pro editor and selected education benefits. 
+Unity is a real-time 2D/3D development platform for games, simulations, 
+AR/VR, visualisation and interactive applications. 
+ 
+Suitable CCIT4080 
+project types 
+AR/VR projects, educational games, simulation interfaces, interactive 3D 
+visualisation, digital twins/prototypes, spatial user interfaces, and projects 
+where real-time 3D interaction is central. 
+ 
+Free-access note 
+Unity plan terms, included assets/services, revenue/commercial conditions 
+and renewal rules can change. Verify the current Student Plan terms before 
+publishing externally. 
+ 
+ 
+
+===== PAGE 16/20 =====
+CCIT4080 - Optional Project Resource Guide  |  Web, Backend, Cloud, AI & Data Work 
+Page 16 
+5. Web, Backend, Cloud, AI & Data Work 
+Resources for app backends, databases, lightweight hosting, serverless functions, notebooks, 
+numerical analysis, cloud learning, and professional technology upskilling. 
+ 
+16. Firebase - Spark Plan 
+Link 
+https://firebase.google.com/pricing 
+What to prepare 
+A Google account and a project name/ID. The Spark plan can be started 
+without a payment method. No student verification is required. 
+ 
+What you can find 
+there 
+Google's app-development backend with services such as authentication, 
+database/storage 
+options, 
+hosting-related 
+features, 
+analytics, 
+crash 
+reporting, messaging and other mobile/web development tools, subject to 
+free-tier quotas. 
+ 
+Suitable CCIT4080 
+project types 
+Mobile/web apps, IoT dashboards, login/authentication, simple real-time 
+data, notification-enabled systems, prototypes that need a managed backend 
+without building every server component from scratch. 
+ 
+Free-access note 
+Some Firebase products/usage require billing or move beyond free quotas. 
+Do not enable a paid billing plan unless the group understands the possible 
+charges. 
+ 
+ 
+17. Supabase Free 
+Link 
+https://supabase.com/pricing 
+What to prepare 
+Create a Supabase account. No student status is required. Plan the database 
+schema and monitor the current free-project, storage, database, 
+authentication and egress limits. 
+ 
+What you can find 
+there 
+Managed PostgreSQL backend with database, authentication, APIs, 
+storage, real-time features and developer tooling. It is useful when a student 
+project needs a conventional relational database with a relatively direct 
+development experience. 
+ 
+Suitable CCIT4080 
+project types 
+Web/mobile applications, dashboards, user accounts, CRUD systems, IoT 
+data portals, project management tools, database-backed prototypes and 
+software projects requiring SQL/PostgreSQL. 
+ 
+Free-access note 
+The free plan has project/resource limits and inactive free projects may 
+pause. Keep backups/exportable data and check current quotas. 
+ 
+ 
+ 
+ 
+
+===== PAGE 17/20 =====
+CCIT4080 - Optional Project Resource Guide  |  Web, Backend, Cloud, AI & Data Work 
+Page 17 
+18. Cloudflare Pages / Workers 
+Link 
+https://developers.cloudflare.com/workers/platform/pricing/ 
+What to prepare 
+A Cloudflare account. No student verification is required. A Git repository 
+is helpful for common Pages workflows but is not the only deployment 
+route. 
+ 
+What you can find 
+there 
+Cloudflare Pages can host static/front-end sites, while Workers provides 
+lightweight serverless code at the edge. Together they can support project 
+websites, APIs, prototypes and small web services within the free limits. 
+ 
+Suitable CCIT4080 
+project types 
+Project showcase websites, static front-ends, lightweight APIs, serverless 
+prototypes, web dashboards, webhook/end-point experiments, and software 
+projects needing public deployment. 
+ 
+Free-access note 
+Workers and related products have request/CPU/storage limits. Check the 
+current Free-plan quotas and avoid accidentally enabling paid usage. 
+ 
+ 
+19. Google Colab 
+Link 
+https://colab.research.google.com/ 
+What to prepare 
+A Google account. No student verification is required. Keep your code/data 
+backed up and do not assume that a particular GPU/TPU or session 
+duration will always be available. 
+ 
+What you can find 
+there 
+Hosted Jupyter Notebook environment that runs Python in the browser with 
+no local setup. Free users can access dynamically allocated compute 
+resources, including accelerator hardware when available. 
+ 
+Suitable CCIT4080 
+project types 
+AI/ML experiments, computer vision, data analysis, signal processing, 
+Python prototypes, model evaluation, numerical experiments and projects 
+where students need notebook-based reproducible evidence. 
+ 
+Free-access note 
+Free compute is not guaranteed and limits can change dynamically. It 
+should not be the only place where important code/data is stored. 
+ 
+ 
+ 
+ 
+
+===== PAGE 18/20 =====
+CCIT4080 - Optional Project Resource Guide  |  Web, Backend, Cloud, AI & Data Work 
+Page 18 
+20. MATLAB Online Basic 
+Link 
+https://www.mathworks.com/products/matlab-online/matlab-online-
+versions.html 
+What to prepare 
+A free MathWorks account and a modern browser. No student verification 
+is required for MATLAB Online Basic. Monitor the monthly usage 
+allowance. 
+ 
+What you can find 
+there 
+Browser-based MATLAB with a monthly free usage allowance, selected 
+commonly used products, MATLAB Drive storage, and access to core 
+numerical, plotting and engineering-computation workflows. 
+ 
+Suitable CCIT4080 
+project types 
+Signal processing, numerical modelling, control/matrix calculations, data 
+analysis, algorithm prototyping, plotting, engineering mathematics, and 
+projects where MATLAB-style analysis is useful but no campus licence is 
+assumed. 
+ 
+Free-access note 
+The Basic version has monthly-hour, storage and product limits. Confirm 
+the current included products before designing a workflow around a 
+specialised toolbox. 
+ 
+ 
+21. AWS Educate 
+Link 
+https://aws.amazon.com/education/awseducate/ 
+What to prepare 
+An email address. AWS Educate can be joined without a credit card. No 
+separate GitHub Student Pack membership is required. 
+ 
+What you can find 
+there 
+Free cloud-learning pathway with beginner-friendly training and hands-on 
+labs covering AWS concepts such as storage, compute, networking, 
+databases, cloud operations and AI-related topics. 
+ 
+Suitable CCIT4080 
+project types 
+Students who need to learn cloud architecture before implementing a 
+web/cloud component; cloud-oriented research; API/backend planning; 
+projects where understanding deployment concepts is more important than 
+receiving production hosting credit. 
+ 
+Free-access note 
+Treat AWS Educate mainly as a learning/lab resource. It is not equivalent 
+to an unrestricted free AWS production account or a guaranteed pool of 
+deployment credits. 
+ 
+ 
+ 
+ 
+
+===== PAGE 19/20 =====
+CCIT4080 - Optional Project Resource Guide  |  Web, Backend, Cloud, AI & Data Work 
+Page 19 
+22. IBM SkillsBuild for University Students 
+Link 
+https://skillsbuild.org/university/students 
+What to prepare 
+An email address and an IBM SkillsBuild account. Use current 
+university/student information where requested. No payment is required for 
+the university-student learning resources. 
+ 
+What you can find 
+there 
+Free learning platform covering technology and professional skills, 
+including AI, data, cybersecurity and related areas, with structured learning 
+paths and selected digital credentials. 
+ 
+Suitable CCIT4080 
+project types 
+Projects where students need to acquire unfamiliar AI/data/cybersecurity 
+knowledge, strengthen background study, understand professional 
+workflows, or build supporting skills before implementing the project. 
+ 
+Free-access note 
+This is primarily a learning and credential resource, not a project 
+hosting/deployment platform. 
+ 
+ 
+
+===== PAGE 20/20 =====
+CCIT4080 - Optional Project Resource Guide  |  2026/27 
+Page 20 
+Final Reminder - Use the Resource, Do Not Let the Resource Define the Project 
+A CCIT4080 project should begin with a problem, objectives, requirements, engineering decisions, 
+implementation and testing. A free tool is useful only when it helps the group carry out those steps 
+more effectively. 
+ 
+Free does not always mean unrestricted 
+Education licences may be limited to non-commercial use; cloud tiers may have quotas; free 
+projects may be public; student editions may limit model size, export, file compatibility, or 
+collaboration; and eligibility may need to be renewed. Keep project files backed up in formats 
+that can be moved to another tool if necessary. 
+ 
+A sensible selection process 
+⚫ 
+Start with the project requirements and identify the specific task that needs a tool. 
+⚫ 
+Compare two or more approaches when the tool choice affects architecture, performance, cost, 
+privacy, maintainability, or project risk. 
+⚫ 
+Prefer tools the group can explain and use independently rather than tools that merely produce 
+attractive outputs. 
+⚫ 
+Record important versions, settings, assumptions and licences in the Logbook or technical 
+documentation when they affect reproducibility. 
+⚫ 
+Keep original source files, raw data, test evidence and exportable backups throughout the 
+project. 
+⚫ 
+For assessed work, explain what the group actually designed, implemented and tested. A 
+commercial or AI-assisted tool does not substitute for engineering evidence. 
+ 
+AI-generation notice 
+This document was generated entirely using generative AI and received only limited manual 
+checking for obvious errors, duplication, course relevance, and readability. Service names, 
+eligibility requirements, quotas, interfaces, licence conditions, and free-tier limits can change. 
+Students should always verify the current information on the official provider website before 
+relying on a service. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Associate of Engineering 
+CCIT4080 Project on Knowledge Product Development 
+Student Supplementary Resource Guide (2026/27) 

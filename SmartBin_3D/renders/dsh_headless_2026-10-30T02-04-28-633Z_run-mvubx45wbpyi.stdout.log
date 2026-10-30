@@ -1,0 +1,22 @@
+00:03.219  blend            | Read blend: "C:\Users\princ\OneDrive\桌面\Final Year Project\SmartBin_3D\smartbin.blend"
+DSH_STAGE {"name": "boot", "t": 1793325872.025, "run": "run-mvubx45wbpyi"}
+DSH_STAGE {"name": "engine-prelude", "t": 1793325872.025, "run": "run-mvubx45wbpyi"}
+DSH_GPU {"mode": "eevee", "manual": false, "backend": "n/a: GPU functions for drawing requires the gpu module to be init", "before": {"engine": "BLENDER_EEVEE", "rt": true, "samples": 64}, "configured": "eevee-rt", "after": {"engine": "BLENDER_EEVEE", "rt": true, "ray_method": "SCREEN", "samples": 64}, "fell_back_to_cpu": false, "ok": true}
+DSH_SCRIPT_FILE C:\Users\princ\OneDrive\桌面\Final Year Project\SmartBin_3D\scripts\render_stills.py
+DSH_STAGE {"name": "preload-done", "t": 1793325872.026, "run": "run-mvubx45wbpyi"}
+00:15.297  render           | Saved: 'C:\Users\princ\OneDrive\桌面\Final Year Project\SmartBin_3D\renders\01_hero.png'
+00:23.938  render           | Saved: 'C:\Users\princ\OneDrive\桌面\Final Year Project\SmartBin_3D\renders\02_cutaway.png'
+00:32.875  render           | Saved: 'C:\Users\princ\OneDrive\桌面\Final Year Project\SmartBin_3D\renders\03_top_internal.png'
+00:33.625  render           | Saved: 'C:\Users\princ\OneDrive\桌面\Final Year Project\SmartBin_3D\renders\04_cad_iso.png'
+00:40.500  render           | Saved: 'C:\Users\princ\OneDrive\桌面\Final Year Project\SmartBin_3D\renders\05_detail.png'
+00:51.219  render           | Saved: 'C:\Users\princ\OneDrive\桌面\Final Year Project\SmartBin_3D\renders\08_electronics.png'
+RENDERED C:\Users\princ\OneDrive\桌面\Final Year Project\SmartBin_3D\renders\01_hero.png
+RENDERED C:\Users\princ\OneDrive\桌面\Final Year Project\SmartBin_3D\renders\02_cutaway.png
+RENDERED C:\Users\princ\OneDrive\桌面\Final Year Project\SmartBin_3D\renders\03_top_internal.png
+RENDERED C:\Users\princ\OneDrive\桌面\Final Year Project\SmartBin_3D\renders\04_cad_iso.png
+RENDERED C:\Users\princ\OneDrive\桌面\Final Year Project\SmartBin_3D\renders\05_detail.png
+DONE
+RENDERED C:\Users\princ\OneDrive\桌面\Final Year Project\SmartBin_3D\renders\08_electronics.png
+DSH_STAGE {"name": "script-end", "t": 1793325919.97, "run": "run-mvubx45wbpyi"}
+DSH_STAGE {"name": "done", "t": 1793325919.97, "run": "run-mvubx45wbpyi"}
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)

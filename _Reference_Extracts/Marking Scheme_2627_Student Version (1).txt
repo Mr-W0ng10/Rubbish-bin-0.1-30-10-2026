@@ -1,0 +1,690 @@
+
+===== PAGE 1/10 =====
+CCIT4080 Project on Knowledge Products Development (26-27)  
+ 
+CL 
+ 
+  
+Group 
+ 
+  
+Project Title: 
+ 
+ 
+Marking Scheme for Project Proposal Presentation (5%)   
+ 
+Excellent 
+Good 
+Satisfactory 
+Borderline 
+Inadequate 
+(85-100%) 
+(70%-85%) 
+(60%-70%) 
+(40-60%) 
+(<40%) 
+Problem statement of Project Goals and Objectives (10%)   
+ 
+ 
+ 
+0.425 – 0.5 
+0.35 – 0.425 
+0.3 – 0.35 
+0.2 – 0.3 
+0 – 0.2 
+Project Feasibility and Proposed Solution (30%) – clear explanation of 
+proposed solution(s) 
+ 
+ 
+1.275 – 1.5 
+1.05 – 1.275 
+0.9 – 1.05 
+0.6 – 1.2 
+0 – 0.6 
+Schedule (20%) – concise and clear  
+ 
+ 
+ 
+0.85 – 1  
+0.7 – 0.85 
+0.6 – 0.7 
+0.4 – 0.6 
+0 – 0.4 
+Resources Allocation (20%) – Including Human resources and any 
+equipment needed 
+ 
+ 
+0.85 – 1  
+0.7 – 0.85 
+0.6 – 0.7 
+0.4 – 0.6 
+0 – 0.4 
+Overall Impression (20%) – Overall presentation skills  
+ 
+ 
+ 
+0.85 – 1  
+0.7 – 0.85 
+0.6 – 0.7 
+0.4 – 0.6 
+0 – 0.4 
+Total 
+ 
+ 
+ 
+ 
+
+===== PAGE 2/10 =====
+Marking Scheme for Interim Report (10%) 
+ 
+Excellent 
+Good 
+Satisfactory 
+Borderline 
+Inadequate 
+(85-100%) 
+(70%-85%) 
+(60%-70%) 
+(40-60%) 
+(<40%) 
+Executive Summary (5%) 
+ 
+0.425 – 0.5  0.35 – 0.425 
+0.3 – 0.35  
+0.2 – 0.3  
+0 – 0.2 
+Review of Current System / Market environment (10%) – a brief overview of similar 
+products/services currently available in the marketplace 
+ 
+0.85 - 1 
+0.7 – 0.85 
+0.6 – 0.7 
+0.4 – 0.6 
+0 – 0.4 
+Detailed Requirement Specifications (25%) – describes the system requirements 
+(function & non-functional) in detail, using appropriate tools and diagrams to assist. 
+ 
+2.125 – 2.5 
+1.75 – 2.15 
+1.5 – 1.75 
+1 – 1.5  
+0 – 1  
+Detailed Design Specifications (25%) – describes the design of the system in detail, 
+using appropriate tools and diagrams to assist. 
+ 
+2.125 – 2.5 
+1.75 – 2.15 
+1.5 – 1.75 
+1 – 1.5  
+0 – 1  
+Current Progress (15%) – describes any issues/problems faced up to this point; Any 
+experimental result available.  
+ 
+1.275 – 1.5 
+1.05 – 1.275 
+0.9 – 1.05 
+0.6 – 0.9 
+0 – 0.6 
+Scheduling and Resources Allocation Review (10%) – compare the original planned 
+schedule and resources allocation with the actual results; revise the plan where 
+appropriate 
+ 
+0.85 - 1 
+0.7 – 0.85 
+0.6 – 0.7 
+0.4 – 0.6 
+0 – 0.4 
+Overall impression (10%) – the report should be well written and formatted; good and 
+logical structure; professionally produced.  
+ 
+ 
+0.85 - 1 
+0.7 – 0.85 
+0.6 – 0.7 
+0.4 – 0.6 
+0 – 0.4 
+Total 
+ 
+ 
+ 
+
+===== PAGE 3/10 =====
+Marking Scheme for Individual Self-Reflection Report (5%)* 
+ 
+CL 
+ 
+  
+Group 
+ 
+  
+Project Title: 
+ 
+ 
+SID: 
+ 
+  
+Name: 
+ 
+ 
+ 
+ 
+Excellent 
+Good 
+Satisfactory 
+Borderline 
+Inadequate 
+(85-100%) 
+(70%-85%) 
+(60%-70%) 
+(40-60%) 
+(<40%) 
+Role (15%) – describe your role and responsibilities in the project team, 
+i.e. what is expected of you? 
+ 
+ 
+0.6375 – 0.75  0.525 – 0.6375 
+0.45 – 0.525  
+0.3 – 0.45  
+0 – 0.3 
+Contributions (30%) – describe things you have done, suggestions you 
+have made, any specific deliverables, etc. 
+ 
+ 
+1.275 – 1.5  
+1.05 – 1.275 
+0.9 – 1.05  
+0.6 – 0.9  
+0 – 0.6 
+Learnings (30%) – discuss what you have learnt or gained from the 
+project, e.g. technical skills, business knowledge, communications and 
+coordination skill etc. 
+ 
+ 
+1.275 – 1.5  
+1.05 – 1.275 
+0.9 – 1.05  
+0.6 – 0.9  
+0 – 0.6 
+Review on team performance (15%) – discuss how the team has 
+performed from your perspective; suggest any improvement if applicable 
+ 
+ 
+0.6375 – 0.75  0.525 – 0.6375 
+0.45 – 0.525  
+0.3 – 0.45  
+0 – 0.3 
+Overall Impression (10%) – the report should be well-written and 
+formatted, have a good and logical structure, and be professionally 
+produced.  
+ 
+ 
+0.425 – 0.5  
+0.35 – 0.425 
+0.3 – 0.35  
+0.2 – 0.3  
+0 – 0.2 
+Total 
+ 
+ 
+
+===== PAGE 4/10 =====
+Marking Scheme for Final Report (20%) 
+ 
+Excellent 
+Good 
+Satisfactory 
+Borderline 
+Inadequate 
+(85-100%) 
+(70%-85%) 
+(60%-70%) 
+(40-60%) 
+(<40%) 
+Abstract (5%) 
+ 
+ 
+0.85 - 1 
+0.7 – 0.85 
+0.6 – 0.7 
+0.4 – 0.6 
+0 – 0.4 
+Introduction (5%) – project objectives, background, etc. 
+ 
+ 
+0.85 - 1 
+0.7 – 0.85 
+0.6 – 0.7 
+0.4 – 0.6 
+0 – 0.4 
+Detailed Requirement Specifications (10%) – describes the system requirements (function & non-
+functional) in detail, using appropriate tools and diagrams to assist 
+ 
+1.7 – 2 
+1.4 – 1.7  
+1.2 – 1.4 
+0.8 – 1.2 
+0 – 0.8 
+Detailed Design Specifications (10%) – describes the design of the system in detail, using appropriate 
+tools and diagrams to assist 
+ 
+1.7 – 2 
+1.4 – 1.7  
+1.2 – 1.4 
+0.8 – 1.2 
+0 – 0.8 
+Evaluation (20%) – discuss any testing methodology, test cases, and test data; the result obtained; 
+ 
+ 
+3.4 – 4 
+2.8 – 3.4  
+2.4 – 2.8 
+1.6 – 2.4 
+0 – 1.6 
+Conclusion (10%) – overall review of the whole project; issues encountered and solution; further 
+enhancements, etc. 
+ 
+1.7 – 2 
+1.4 – 1.7  
+1.2 – 1.4 
+0.8 – 1.2 
+0 – 0.8 
+Appendices and Reference (10%)  
+ 
+ 
+1.7 – 2 
+1.4 – 1.7  
+1.2 – 1.4 
+0.8 – 1.2 
+0 – 0.8 
+Overall Impression (10%) – the report should be well-written and formatted, have a good and logical 
+structure, and be professionally produced.  
+ 
+1.7 – 2 
+1.4 – 1.7  
+1.2 – 1.4 
+0.8 – 1.2 
+0 – 0.8 
+Product (20%) – does the system function as specified?  
+ 
+ 
+3.4 – 4 
+2.8 – 3.4  
+2.4 – 2.8 
+1.6 – 2.4 
+0 – 1.6 
+Total 
+ 
+ 
+ 
+ 
+
+===== PAGE 5/10 =====
+Marking Scheme for Final Presentation (1st Examiner - 10%) 
+ 
+Excellent 
+Good 
+Satisfactory 
+Borderline 
+Inadequate 
+(85-100%) 
+(70%-85%) 
+(60%-70%) 
+(40-60%) 
+(<40%) 
+Team mark (5%) 
+Content   
+– Key items from Final Report  
+– A brief demo of the prototype 
+Material 
+– How attractive and professional is the content being presented 
+ 
+4.25 – 5  
+3.5 – 4.25 
+3 – 3.5 
+2– 3  
+0 – 2 
+Individual mark (5%) 
+Presentation performance: how effective is the presentation? 
+4.25 – 5  
+3.5 – 4.25 
+3 – 3.5 
+2– 3  
+0 – 2 
+Student 1 
+Name: 
+ 
+SID: 
+ 
+Student 2 
+Name: 
+ 
+SID: 
+Student 3 
+Name: 
+ 
+SID: 
+Student 4 
+Name: 
+ 
+SID: 
+Student 5 
+Name: 
+ 
+SID: 
+ 
+ 
+
+===== PAGE 6/10 =====
+Marking Scheme for Final Presentation (2nd Examiner - 5%) 
+ 
+CL 
+ 
+  
+Group 
+ 
+  
+Project Title: 
+ 
+ 
+ 
+ 
+Excellent 
+Good 
+Satisfactory 
+Borderline 
+Inadequate 
+(85-100%) 
+(70%-85%) 
+(60%-70%) 
+(40-60%) 
+(<40%) 
+Team mark (5%) 
+Content   
+– Key items from Final Report  
+– A brief demo of the prototype 
+Material 
+– How attractive and professional is the content being presented 
+ 
+ 
+4.25 – 5  
+3.5 – 4.25 
+3 – 3.5 
+2– 3  
+0 – 2 
+ 
+ 
+
+===== PAGE 7/10 =====
+Marking Scheme for Project Deliverables (1st Examiner - 30%) (Part 1 of 2)  
+ 
+Team mark (10%) 
+ 
+Excellent 
+Good 
+Satisfactory 
+Borderline 
+Inadequate 
+(85-100%) 
+(70%-85%) 
+(60%-70%) 
+(40-60%) 
+(<40%) 
+Design and Idea (25) 
+ 
+2.125 – 2.5 
+1.75 – 2.125 
+1.5 – 1.75 
+1 – 1.5 
+0 – 1 
+Implementation, Project Progress, and the Final Product (50) 
+ 
+ 
+4.25 – 5 
+3.5 – 4.25 
+3 – 3.5 
+2 – 3 
+0 – 2 
+Project Video and documentation (25) 
+ 
+ 
+2.125 – 2.5 
+1.75 – 2.125 
+1.5 – 1.75 
+1 – 1.5 
+0 – 1 
+Total  
+ 
+Comments: 
+ 
+ 
+
+===== PAGE 8/10 =====
+Marking Scheme for Project Deliverables (1st Examiner - 30%) (Part 2 of 2)  
+ 
+Individual mark (20%) 
+ 
+Excellent 
+Good 
+Satisfactory 
+Borderline 
+Inadequate 
+(85-100%) 
+(70%-85%) 
+(60%-70%) 
+(40-60%) 
+(<40%) 
+[Progress] Technical Contribution to Implementation (40) 
+N/A 
+6.8 – 8 
+5.6 – 6.8 
+4.8 – 5.6 
+3.2 – 4.8 
+0 – 3.2 
+[Progress] Contribution to relevant Documentation (30) 
+N/A 
+5.1 – 6 
+4.2 – 5.1 
+3.6 – 4.2 
+2.4 – 3.6 
+0 – 2.4 
+[Progress] Engagement and Communication in Group (30) 
+ 
+N/A 
+5.1 – 6 
+4.2 – 5.1 
+3.6 – 4.2 
+2.4 – 3.6 
+0 – 2.4 
+Student 1 
+Name: 
+ 
+SID: 
+ 
+ 
+/ 
+8 
+ 
+/ 
+6 
+ 
+/ 
+6 
+ 
+Student 2 
+Name: 
+ 
+SID: 
+ 
+ 
+/ 
+8 
+ 
+/ 
+6 
+ 
+/ 
+6 
+ 
+Student 3 
+Name: 
+ 
+SID: 
+ 
+ 
+/ 
+8 
+ 
+/ 
+6 
+ 
+/ 
+6 
+ 
+Student 4 
+Name: 
+ 
+SID: 
+ 
+ 
+/ 
+8 
+ 
+/ 
+6 
+ 
+/ 
+6 
+ 
+Student 5 
+Name: 
+ 
+SID: 
+ 
+ 
+/ 
+8 
+ 
+/ 
+6 
+ 
+/ 
+6 
+ 
+Total:  
+Total: 
+Total: 
+Total: 
+Total:  
+ 
+ 
+
+===== PAGE 9/10 =====
+Marking Scheme for Project Deliverables (2nd Examiner - 5%) 
+ 
+ 
+Excellent 
+Good 
+Satisfactory 
+Borderline 
+Inadequate 
+(85-100%) 
+(70%-85%) 
+(60%-70%) 
+(40-60%) 
+(<40%) 
+Design and Idea (20) 
+ 
+ 
+ 
+ 
+0.85 – 1  
+0.7 – 0.85 
+0.6 – 0.7 
+0.4 – 0.6 
+0 – 0.4 
+Implementation and the Final Product (60) 
+ 
+ 
+ 
+ 
+2.55 – 3 
+2.1 – 2.55  
+1.8 – 2.1 
+1.2 – 1.8 
+0 – 1.2 
+Project Video and documentation (20) 
+ 
+ 
+ 
+ 
+0.85 – 1  
+0.7 – 0.85 
+0.6 – 0.7 
+0.4 – 0.6 
+0 – 0.4 
+Total  
+ 
+ 
+ 
+
+===== PAGE 10/10 =====
+Marking Scheme for Logbook (1st Semester – 2.5%) 
+ 
+ 
+Excellent 
+Good 
+Satisfactory 
+Borderline 
+Inadequate 
+(85-100%) 
+(70%-85%) 
+(60%-70%) 
+(40-60%) 
+(<40%) 
+Content   
+– Activities and milestones 
+– Date 
+– Description (Tasks accomplished, findings, difficulties, etc.) 
+– Meeting Agenda and Minutes 
+– Key decisions 
+ 
+2.125 – 2.5  1.75 – 2.125 
+1.5 – 1.75  
+1 – 1.5  
+0 – 1 
+ 
+Marking Scheme for Logbook (2nd Semester – 2.5%) 
+ 
+ 
+Excellent 
+Good 
+Satisfactory 
+Borderline 
+Inadequate 
+(85-100%) 
+(70%-85%) 
+(60%-70%) 
+(40-60%) 
+(<40%) 
+Content   
+– Activities and milestones 
+– Date 
+– Description (Tasks accomplished, findings, difficulties, etc.) 
+– Meeting Agenda and Minutes 
+– Key decisions 
+ 
+2.125 – 2.5  1.75 – 2.125 
+1.5 – 1.75  
+1 – 1.5  
+0 – 1 
+ 
+ 
+Total 
+ 
+ 
+4.25 – 5  
+3.5 – 4.25 
+3 – 3.5 
+2– 3  
+0 – 2 
+ 
